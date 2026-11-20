@@ -3,6 +3,11 @@
 A BrantSteele-style Hunger Games simulator where tributes have stats, items, injuries,
 alliances and popularity, and everything they do changes their odds of winning.
 
+## Play
+
+Play in your browser: **https://mcnecho.github.io/hunger-games-simulator/**
+(a single-file copy for offline play is at `/hunger-games-simulator.html` on the same site).
+
 ## Using it
 
 Run `npm install && npm run build`, then open `dist/single.html` in a browser
@@ -44,6 +49,11 @@ test/           node --test suites, including thousands of simulated games check
 test-ui/        headless-browser run-through of every screen at desktop and phone sizes
 tools/          build, data generation, odds fitting, statistics
 ```
+
+## Hosting
+
+`.github/workflows/pages.yml` runs the tests, builds the game and publishes it to GitHub Pages
+on every push to `main`. One-time setup: Settings → Pages → Source: **GitHub Actions**.
 
 ## Commands
 

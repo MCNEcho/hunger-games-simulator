@@ -265,6 +265,7 @@ export function describeSpec(spec) {
     if (r.type === 'cond') out.push(`Only when ${P(r.who)} is ${r.cond}`);
     else if (r.type === 'has') out.push(`Only when ${P(r.who)} has ${itemLabel(r.item).toLowerCase()}`);
     else if (r.type === 'hasWeapon') out.push(`Only when ${P(r.who)} has a weapon`);
+    else if (r.type === 'hasOneOf') out.push(`Only when ${P(r.who)} has ${r.items.map((i) => itemLabel(i).toLowerCase()).join(' or ')}`);
     else if (r.type === 'hunger') out.push(`Only after ${r.min}+ days without food for ${P(r.who)}`);
     else if (r.type === 'thirst') out.push(`Only after ${r.min}+ days without water for ${P(r.who)}`);
     else if (r.type === 'healthBelow') out.push(`Only when ${P(r.who)} is below ${r.max} health`);
@@ -286,7 +287,8 @@ export function describeSpec(spec) {
     else if (p.type === 'distressed') out.push(`More likely when ${P(p.who)} is hurt, starving, alone or has lost their district partner`);
   }
   for (const e of spec.effects) {
-    if (e.t === 'gain') out.push(`${P(e.who)} gets ${itemLabel(e.item).toLowerCase()}${e.n > 1 ? ` ×${e.n}` : ''}`);
+    if (e.t === 'ensureItem') out.push(`${P(e.who)} picks up ${itemLabel(e.item).toLowerCase()} at the Cornucopia if they have none`);
+    else if (e.t === 'gain') out.push(`${P(e.who)} gets ${itemLabel(e.item).toLowerCase()}${e.n > 1 ? ` ×${e.n}` : ''}`);
     else if (e.t === 'gainRandom') out.push(`${P(e.who)} gets ${e.n > 1 ? `${e.n} random supplies` : 'a random supply'}`);
     else if (e.t === 'lose') out.push(`${P(e.who)} loses ${itemLabel(e.item).toLowerCase()}`);
     else if (e.t === 'consume') out.push(`${P(e.who)} uses up ${itemLabel(e.item).toLowerCase()}`);

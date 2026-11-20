@@ -3,6 +3,30 @@ import { DEFAULT_CAST_TEXT, DEFAULT_EVENTS_TEXT } from '../src/data/defaultData.
 import { parseCast } from '../src/io/castFormat.js';
 import { parseEvents } from '../src/io/eventsFormat.js';
 import { Game } from '../src/engine/game.js';
+import { meetsRequirement } from '../src/engine/effects.js';
+import { sameAlliance } from '../src/engine/alliances.js';
+import { itemLabel } from '../src/data/items.js';
+
+/** Records any event that happens while one of its hard requirements is false. */
+export function watchRequirements(g) {
+  g.requirementViolations = [];
+  g.onBeforeOutcome = (ev, spec, cast, phase) => {
+    for (const r of spec.requires) {
+      const t = cast[r.who - 1];
+      if (!t) continue;
+      let ok;
+      if (r.type === 'allied' || r.type === 'notAllied') {
+        const o = cast[r.other - 1];
+        ok = !o || sameAlliance(g, t.id, o.id) === (r.type === 'allied');
+      } else ok = meetsRequirement(g, r, t);
+      if (!ok) {
+        const what = r.items ? r.items.map(itemLabel).join('/') : r.item || r.cond || r.max || r.min || '';
+        g.requirementViolations.push(`${phase.title}: "${ev.text.slice(0, 60)}" cast ${t.name} without ${r.type} ${what}`);
+      }
+    }
+  };
+  return g;
+}
 
 export const DEFAULT_CAST = parseCast(DEFAULT_CAST_TEXT);
 export const EVENTS = parseEvents(DEFAULT_EVENTS_TEXT).events;
@@ -27,7 +51,7 @@ export function smallCast(n) {
 export const CAST36 = smallCast(36);
 
 export function newGame(seed, opts = {}) {
-  return new Game({ cast: opts.cast || CAST36, events: opts.events || EVENTS, seed, settings: opts.settings });
+  return watchRequirements(new Game({ cast: opts.cast || CAST36, events: opts.events || EVENTS, seed, settings: opts.settings }));
 }
 
 /** Check every rule a finished game must satisfy. Returns a list of problems. */
@@ -37,6 +61,7 @@ export function checkInvariants(g) {
   const N = s.tributes.length;
   const byId = g.byId;
   const err = (m) => errs.push(`[${s.seed}] ${m}`);
+  for (const v of g.requirementViolations || []) err(`requirement broken: ${v}`);
   if (!s.finished) err('not finished');
   const dead = s.tributes.filter((t) => !t.alive);
   const alive = s.tributes.filter((t) => t.alive);
@@ -62,6 +87,9 @@ export function checkInvariants(g) {
           const t = byId[id];
           if (t.deathPhase !== null && t.deathPhase < ph.index) err(`dead tribute ${id} appears in ${ph.title}`);
         }
+      }
+      if (e.kind === 'event' && e.eventId && DESPAIR_RE.test(eventText(g, e.eventId))) {
+        for (const id of e.deaths) if (!(byId[id].healthAtDeath < 35)) err(`self-inflicted death at ${byId[id].healthAtDeath} health in ${ph.title}`);
       }
       if (e.kind !== 'fallen') for (const id of e.deaths) {
         const v = byId[id];
@@ -105,6 +133,7 @@ export function checkInvariants(g) {
   return errs;
 }
 
+const DESPAIR_RE = /suicide|begs for \(Player\d\) to kill|agree to die|decide to run into the cloud together/;
 const textCache = new Map();
 function eventText(g, id) {
   if (textCache.has(id)) return textCache.get(id);

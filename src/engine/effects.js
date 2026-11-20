@@ -4,6 +4,7 @@ import { ITEMS, WEAPON_IDS, bestWeapon, itemLabel } from '../data/items.js';
 import { PROFILES } from '../data/districts.js';
 import { clamp, count, isArmed, isHurt, combatScore } from './tributes.js';
 import { addBond, formAlliance, leaveAlliance, sameAlliance } from './alliances.js';
+import { DAMAGE_SCALE } from './balance.js';
 
 // ---------------------------------------------------------------- requirements
 
@@ -17,6 +18,8 @@ export function meetsRequirement(G, r, t) {
       return count(t, r.item) > 0;
     case 'hasWeapon':
       return isArmed(t);
+    case 'hasOneOf':
+      return r.items.some((i) => count(t, i) > 0);
     case 'hunger':
       return t.hunger >= r.min;
     case 'thirst':
@@ -37,6 +40,8 @@ export function prefFactor(G, p, t, spec) {
       return count(t, p.item) > 0 ? p.yes : p.no;
     case 'hasAny':
       return Object.values(t.inventory).some((n) => n > 0) ? p.yes : p.no;
+    case 'hasOneOf':
+      return p.items.some((i) => count(t, i) > 0) ? p.yes : p.no;
     case 'hasWeapon':
       return isArmed(t) ? p.yes : p.no;
     case 'hungry':
@@ -203,6 +208,10 @@ function applyEffect(G, e, P, chip, rng) {
     case 'gain':
       addItem(who, e.item, e.n || 1, { push: (c) => chip(who, c) });
       break;
+    case 'ensureItem':
+      // Picked up on the spot (Cornucopia events) if they did not already have it.
+      if (!count(who, e.item)) addItem(who, e.item, 1, { push: (c) => chip(who, c) });
+      break;
     case 'gainRandom': {
       const n = e.n || 1;
       for (let i = 0; i < n; i++) addItem(who, rollItem(G, rng, G.phaseKind, who), 1, { push: (c) => chip(who, c) });
@@ -239,8 +248,9 @@ function applyEffect(G, e, P, chip, rng) {
     }
     case 'hp': {
       const before = who.health;
+      const d0 = e.d < 0 ? Math.round(e.d * DAMAGE_SCALE) : e.d;
       // Non-fatal events never kill: the text would not match.
-      who.health = clamp(who.health + e.d, 1, 100);
+      who.health = clamp(who.health + d0, 1, 100);
       const d = who.health - before;
       if (d) chip(who, { kind: d > 0 ? 'good' : 'bad', text: `${d > 0 ? '+' : '−'}${Math.abs(d)} health${e.reason === 'shaken' ? ' (shaken)' : ''}` });
       break;
@@ -311,6 +321,7 @@ function capitalize(s) {
 export function killTribute(G, t, killers, label, ev, cause) {
   if (!t.alive) return;
   t.formerAlliance = t.allianceId;
+  t.healthAtDeath = t.health;
   t.alive = false;
   t.health = 0;
   t.deathPhase = G.state.phases.length - 1; // the phase being run is already in the list

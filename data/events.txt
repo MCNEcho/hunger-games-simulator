@@ -1,0 +1,3360 @@
+Bloodbath Events
+(Player1) (grabs/grabs/grabs/grabs/grab1) a shovel.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a backpack and retreats.
+1
+
+(Player1) and (Player2) fight for a bag. (Player1) (gives up and retreats/gives up and retreats/gives up and retreats/gives up and retreats/give up and retreat1).
+2
+
+(Player1) and (Player2) fight for a bag. (Player2) (gives up and retreats/gives up and retreats/gives up and retreats/gives up and retreats/give up and retreat2).
+2
+
+(Player1) (finds/finds/finds/finds/find1) a bow, some arrows, and a quiver.
+1
+
+(Player1) (runs/runs/runs/runs/run1) into the cornucopia and hides.
+1
+
+(Player1) (takes/takes/takes/takes/take1) a handful of throwing knives.
+1
+
+(Player1) (rips/rips/rips/rips/rip1) a mace out of (Player2)'s hands.
+2
+
+(Player1) (finds/finds/finds/finds/find1) a canteen full of water.
+1
+
+(Player1) (stays/stays/stays/stays/stay1) at the cornucopia for resources.
+1
+
+(Player1) (gathers/gathers/gathers/gathers/gather1) as much food as [typeA1] can.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a sword.
+1
+
+(Player1) (takes/takes/takes/takes/take1) a spear from inside the cornucopia.
+1
+
+(Player1) (finds/finds/finds/finds/find1) a bag full of explosives.
+1
+
+(Player1) (clutches/clutches/clutches/clutches/clutch1) a first aid kit and (runs/runs/runs/runs/run1) away.
+1
+
+(Player1) (takes/takes/takes/takes/take1) a sickle from inside the cornucopia.
+1
+
+(Player1), (Player2), and (Player3) work together to get as many supplies as possible.
+3
+
+(Player1) (runs/runs/runs/runs/run1) away with a lighter and some rope.
+1
+
+(Player1) (snatches/snatches/snatches/snatches/snatch1) a bottle of alcohol and a rag.
+1
+
+(Player1) (finds/finds/finds/finds/find1) a backpack full of camping equipment.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a backpack, not realizing it is empty.
+1
+
+(Player1) (breaks/breaks/breaks/breaks/break1) (Player2)'s (nose/nose/nose/nose/noses2) for a basket of bread.
+2
+
+(Player1), (Player2), (Player3), and (Player4) share everything they gathered before running.
+4
+
+(Player1) (retrieves/retrieves/retrieves/retrieves/retrieve1) a trident from inside the cornucopia.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a jar of fishing bait while (Player2) (gets/gets/gets/gets/get1) fishing gear.
+2
+
+(Player1) (scares/scares/scares/scares/scare1) (Player2) away from the cornucopia.
+2
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a shield leaning on the cornucopia.
+1
+
+(Player1) (snatches/snatches/snatches/snatches/snatch1) a pair of sais.
+1
+
+(Player1) (sprints/sprints/sprints/sprints/sprint1) for the treeline without grabbing a single thing.
+1
+
+(Player1) (trips/trips/trips/trips/trip1) stepping off [typeC1] podium, but (scrambles/scrambles/scrambles/scrambles/scramble1) away unharmed.
+1
+
+(Player1) and (Player2) grab the same backpack, rip it in half, and each run off with a strap.
+2
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a pair of night-vision goggles.
+1
+
+(Player1) (wrestles/wrestles/wrestles/wrestles/wrestle1) a crossbow away from (Player2).
+2
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a sleeping bag and (disappears/disappears/disappears/disappears/disappear1) into the woods.
+1
+
+(Player1) (dives/dives/dives/dives/dive1) behind a crate and (waits/waits/waits/waits/wait1) for the chaos to die down.
+1
+
+(Player1) (finds/finds/finds/finds/find1) a hand-drawn map of the arena tucked inside a pack.
+1
+
+(Player1) (snags/snags/snags/snags/snag1) a coil of wire and a pair of pliers.
+1
+
+(Player1) (panics/panics/panics/panics/panic1) and (runs/runs/runs/runs/run1) straight past every supply.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a slingshot and a pouch of steel balls.
+1
+
+(Player1) (knocks/knocks/knocks/knocks/knock1) (Player2) flat while sprinting toward the cornucopia.
+2
+
+(Player1) (shoves/shoves/shoves/shoves/shove1) (Player2) out of the way to grab a machete.
+2
+
+(Player1) and (Player2) make eye contact across the field and silently agree to team up.
+2
+
+(Player1), (Player2), and (Player3) form an alliance in the middle of the chaos.
+3
+
+(Player1), (Player2), (Player3), (Player4), and (Player5) claim the cornucopia as their territory.
+5
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a blowgun and a pouch of darts.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a water bottle and a bag of iodine tablets.
+1
+
+(Player1) (takes/takes/takes/takes/take1) a set of climbing gear.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a crate of apples, then (realizes/realizes/realizes/realizes/realize1) it is far too heavy to carry.
+1
+
+(Player1) (hides/hides/hides/hides/hide1) under a tarp until the bloodbath is over.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a bundle of arrows, but no bow.
+1
+
+(Player1) (finds/finds/finds/finds/find1) a bow, but no arrows.
+1
+
+(Player1) (throws/throws/throws/throws/throw1) a rock at (Player2), forcing [typeB2] to drop [typeC2] supplies.
+2
+
+(Player1) (pulls/pulls/pulls/pulls/pull1) an axe from the top of the pile.
+1
+
+(Player1) (steals/steals/steals/steals/steal1) (Player2)'s backpack right off [typeC2] back.
+2
+
+(Player1) (helps/helps/helps/helps/help1) (Player2) up after [typeA2] (trips/trips/trip/trips/trip2).
+2
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a tent and a box of matches.
+1
+
+(Player1) (finds/finds/finds/finds/find1) a fishing net and some hooks.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a whip.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a set of brass knuckles.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a bag labeled "FOOD" that turns out to be full of rocks.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a wristwatch with a built-in compass.
+1
+
+(Player1) and (Player2) split a pile of supplies and go their separate ways.
+2
+
+(Player1) (waves/waves/waves/waves/wave1) at the cameras before jogging into the woods.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a bag of nuts and dried fruit.
+1
+
+(Player1) (throws/throws/throws/throws/throw1) a smoke bomb and (escapes/escapes/escapes/escapes/escape1) with an armful of supplies.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a spear, but (Player2) (chases/chases/chases/chases/chase2) [typeB1] away from the rest of the supplies.
+2
+
+(Player1) (is/is/is/is/are1) grazed by a thrown knife, but (escapes/escapes/escapes/escapes/escape1).
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a medkit and a bottle of painkillers.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a crossbow and a quiver of bolts.
+1
+
+(Player1) (trips/trips/trips/trips/trip1) (Player2), (grabs/grabs/grabs/grabs/grab1) [typeC2] bag, and (sprints/sprints/sprints/sprints/sprint1) off.
+2
+
+(Player1) and (Player2) stand back to back, fending off anyone who comes near.
+2
+
+(Player1) (climbs/climbs/climbs/climbs/climb1) on top of the cornucopia to survey the chaos.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a machete and (hacks/hacks/hacks/hacks/hack1) a path into the forest.
+1
+
+
+Day Events
+(Player1) (goes/goes/goes/goes/go1) hunting.
+1
+
+(Player1) (injures/injures/injures/injures/injure1) [typeD1].
+1
+
+(Player1) (explores/explores/explores/explores/explore1) the arena.
+1
+
+(Player1) (scares/scares/scares/scares/scare1) (Player2) off.
+2
+
+(Player1) (diverts/diverts/diverts/diverts/divert1) (Player2)'s attention and (runs/runs/runs/runs/run1) away.
+2
+
+(Player1) (stalks/stalks/stalks/stalks/stalk1) (Player2).
+2
+
+(Player1) (fishes/fishes/fishes/fishes/fish1).
+1
+
+(Player1) (camouflages/camouflages/camouflages/camouflages/camouflage1) [typeD1] in the bushes.
+1
+
+(Player1) (steals/steals/steals/steals/steal1) from (Player2) while [typeA2] (isn't/isn't/aren't/isn't/aren't2) looking.
+2
+
+(Player1) (makes/makes/makes/makes/make1) a wooden spear.
+1
+
+(Player1) (discovers/discovers/discovers/discovers/discover1) a cave.
+1
+
+(Player1) (attacks/attacks/attacks/attacks/attack1) (Player2), but [typeA2] (manages/manages/manage/manages/manage2) to escape.
+2
+
+(Player1) (chases/chases/chases/chases/chase1) (Player2).
+2
+
+(Player1) (runs/runs/runs/runs/run1) away from (Player2).
+2
+
+(Player1) (collects/collects/collects/collects/collect1) fruit from a tree.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) a hatchet from an unknown sponsor.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) clean water from an unknown sponsor.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) medical supplies from an unknown sponsor.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) fresh food from an unknown sponsor.
+1
+
+(Player1) (searches/searches/searches/searches/search1) for a water source.
+1
+
+(Player1) (defeats/defeats/defeats/defeats/defeat1) (Player2) in a fight, but (spares/spares/spares/spares/spare1) [typeC2] life.
+2
+
+(Player1) and (Player2) work together for the day.
+2
+
+(Player1) (begs/begs/begs/begs/beg1) for (Player2) to kill [typeB1]. [TypeA2] (refuses/refuses/refuse/refuses/refuse2), keeping (Player1) alive.
+2
+
+(Player1) (tries/tries/tries/tries/try1) to sleep through the entire day.
+1
+
+(Player1), (Player2), (Player3), and (Player4) raid (Player5)'s camp while [typeA5] (is/is/are/is/are5) hunting.
+5
+
+(Player1) (constructs/constructs/constructs/constructs/construct1) a shack.
+1
+
+(Player1) (overhears/overhears/overhears/overhears/overhear1) (Player2) and (Player3) talking in the distance.
+3
+
+(Player1) (practices/practices/practices/practices/practice1) [typeC1] archery.
+1
+
+(Player1) (thinks/thinks/thinks/thinks/think1) about home.
+1
+
+(Player1) (is/is/is/is/are1) pricked by thorns while picking berries.
+1
+
+(Player1) (tries/tries/tries/tries/try1) to spear fish with a trident.
+1
+
+(Player1) (searches/searches/searches/searches/search1) for firewood.
+1
+
+(Player1) and (Player2) split up to search for resources.
+2
+
+(Player1) (picks/picks/picks/picks/pick1) flowers.
+1
+
+(Player1) (tends/tends/tends/tends/tend1) to (Player2)'s wounds.
+2
+
+(Player1) (sees/sees/sees/sees/see1) smoke rising in the distance, but (decides/decides/decides/decides/decide1) not to investigate.
+1
+
+(Player1) (sprains/sprains/sprains/sprains/sprain1) [typeC1] ankle while running away from (Player2).
+2
+
+(Player1) (makes/makes/makes/makes/make1) a slingshot.
+1
+
+(Player1) (travels/travels/travels/travels/travel1) to higher ground.
+1
+
+(Player1) (discovers/discovers/discovers/discovers/discover1) a river.
+1
+
+(Player1) (hunts/hunts/hunts/hunts/hunt1) for other tributes.
+1
+
+(Player1) and (Player2) hunt for other tributes.
+2
+
+(Player1), (Player2), and (Player3) hunt for other tributes.
+3
+
+(Player1), (Player2), (Player3), and (Player4) hunt for other tributes.
+4
+
+(Player1), (Player2), (Player3), (Player4), and (Player5) hunt for other tributes.
+5
+
+(Player1) (receives/receives/receives/receives/receive1) an explosive from an unknown sponsor.
+1
+
+(Player1) (questions/questions/questions/questions/question1) [typeC1] sanity.
+1
+
+(Player1) (builds/builds/builds/builds/build1) a snare and (catches/catches/catches/catches/catch1) a rabbit.
+1
+
+(Player1) (builds/builds/builds/builds/build1) a snare, but it catches nothing.
+1
+
+(Player1) (sets/sets/sets/sets/set1) traps around [typeC1] camp.
+1
+
+(Player1) (finds/finds/finds/finds/find1) a hidden stash of supplies buried under a rock.
+1
+
+(Player1) (climbs/climbs/climbs/climbs/climb1) the tallest tree to scout the arena.
+1
+
+(Player1) (spots/spots/spots/spots/spot1) (Player2) in the distance and (decides/decides/decides/decides/decide1) to leave [typeB2] alone.
+2
+
+(Player1) (sharpens/sharpens/sharpens/sharpens/sharpen1) [typeC1] weapon on a rock.
+1
+
+(Player1) (practices/practices/practices/practices/practice1) throwing knives at a tree.
+1
+
+(Player1) (talks/talks/talks/talks/talk1) to the cameras, hoping to win over sponsors.
+1
+
+(Player1) (puts/puts/puts/puts/put1) on a show for the cameras, flexing and posing.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) a crossbow from an unknown sponsor.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) a sleeping bag from an unknown sponsor.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) a note from home in a sponsor parachute.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) a single, slightly melted chocolate bar from a sponsor.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) a pair of night-vision goggles from an unknown sponsor.
+1
+
+(Player1) and (Player2) form an alliance.
+2
+
+(Player1) (asks/asks/asks/asks/ask1) (Player2) to join [typeC1] alliance. [TypeA2] (agrees/agrees/agree/agrees/agree2).
+2
+
+(Player1) (asks/asks/asks/asks/ask1) (Player2) to join [typeC1] alliance. [TypeA2] (refuses/refuses/refuse/refuses/refuse2) and (runs/runs/run/runs/run2) off.
+2
+
+(Player1) (follows/follows/follows/follows/follow1) (Player2)'s footprints, but (loses/loses/loses/loses/lose1) the trail.
+2
+
+(Player1) (steals/steals/steals/steals/steal1) (Player2)'s weapon while [typeA2] (is/is/are/is/are2) bathing in the river.
+2
+
+(Player1) (falls/falls/falls/falls/fall1) into a shallow pit, but (climbs/climbs/climbs/climbs/climb1) out.
+1
+
+(Player1) (is/is/is/is/are1) stung by a wasp and (spends/spends/spends/spends/spend1) the day with a swollen face.
+1
+
+(Player1) (eats/eats/eats/eats/eat1) some mystery berries, hoping they aren't poisonous. They aren't.
+1
+
+(Player1) (convinces/convinces/convinces/convinces/convince1) (Player2) to taste-test some berries first.
+2
+
+(Player1) (trades/trades/trades/trades/trade1) food with (Player2) for some rope.
+2
+
+(Player1) and (Player2) argue about which way to go and split up.
+2
+
+(Player1), (Player2), and (Player3) build a fort out of fallen branches.
+3
+
+(Player1) (gets/gets/gets/gets/get1) lost and (walks/walks/walks/walks/walk1) in circles all day.
+1
+
+(Player1) (finds/finds/finds/finds/find1) an abandoned camp with a smoldering fire.
+1
+
+(Player1) (finds/finds/finds/finds/find1) a fresh water spring.
+1
+
+(Player1) (bathes/bathes/bathes/bathes/bathe1) in the river.
+1
+
+(Player1) (carves/carves/carves/carves/carve1) [typeC1] name into a tree.
+1
+
+(Player1) (makes/makes/makes/makes/make1) a bow out of a branch and some string.
+1
+
+(Player1) (catches/catches/catches/catches/catch1) (Player2) in a trap, but (lets/lets/lets/lets/let1) [typeB2] go.
+2
+
+(Player1) (gets/gets/gets/gets/get1) caught in (Player2)'s snare, but (cuts/cuts/cuts/cuts/cut1) [typeD1] free.
+2
+
+(Player1) (steps/steps/steps/steps/step1) on a twig, alerting (Player2) to [typeC1] location.
+2
+
+(Player1) (pelts/pelts/pelts/pelts/pelt1) (Player2) with pinecones from the top of a tree.
+2
+
+(Player1) (challenges/challenges/challenges/challenges/challenge1) (Player2) to a fair fight. [TypeA2] (declines/declines/decline/declines/decline2).
+2
+
+(Player1) (hides/hides/hides/hides/hide1) from (Player2) inside a hollow log.
+2
+
+(Player1) (mimics/mimics/mimics/mimics/mimic1) bird calls to confuse (Player2).
+2
+
+(Player1) (spies/spies/spies/spies/spy1) on (Player2) and (Player3) from the bushes.
+3
+
+(Player1) (convinces/convinces/convinces/convinces/convince1) (Player2) that [typeA1] (is/is/are/is/are1) completely harmless.
+2
+
+(Player1) and (Player2) team up to take down a wild boar.
+2
+
+(Player1) (chases/chases/chases/chases/chase1) a rabbit for an hour and (catches/catches/catches/catches/catch1) nothing.
+1
+
+(Player1) (gets/gets/gets/gets/get1) a nasty sunburn.
+1
+
+(Player1) (finds/finds/finds/finds/find1) a mysterious locked box, but (can't/can't/can't/can't/can't1) open it.
+1
+
+(Player1) (cracks/cracks/cracks/cracks/crack1) open a coconut with a rock.
+1
+
+(Player1) (draws/draws/draws/draws/draw1) a map of the arena in the dirt.
+1
+
+(Player1), (Player2), (Player3), and (Player4) hold a meeting to plan their next move.
+4
+
+(Player1) (starts/starts/starts/starts/start1) a rumor that (Player2) is planning to betray (Player3).
+3
+
+(Player1) (abandons/abandons/abandons/abandons/abandon1) (Player2) and (runs/runs/runs/runs/run1) off with half of [typeC2] supplies.
+2
+
+(Player1) (disguises/disguises/disguises/disguises/disguise1) [typeD1] with mud.
+1
+
+(Player1) (dodges/dodges/dodges/dodges/dodge1) an arrow from an unseen attacker.
+1
+
+(Player1) (dodges/dodges/dodges/dodges/dodge1) a spear thrown by (Player2).
+2
+
+(Player1) (rescues/rescues/rescues/rescues/rescue1) (Player2) from a pit.
+2
+
+(Player1) (pulls/pulls/pulls/pulls/pull1) (Player2) out of quicksand.
+2
+
+(Player1) (gets/gets/gets/gets/get1) stuck in quicksand for hours before finally escaping.
+1
+
+(Player1) (gives/gives/gives/gives/give1) (Player2) some of [typeC1] food.
+2
+
+(Player1) and (Player2) have a heart-to-heart about the people waiting for them at home.
+2
+
+(Player1) (laughs/laughs/laughs/laughs/laugh1) at (Player2) after [typeA2] (trips/trips/trip/trips/trip2) into a creek.
+2
+
+(Player1) (receives/receives/receives/receives/receive1) a sponsor gift, but (Player2) (snatches/snatches/snatches/snatches/snatch2) it first.
+2
+
+(Player1) (loses/loses/loses/loses/lose1) [typeC1] weapon in the river.
+1
+
+(Player1) (whittles/whittles/whittles/whittles/whittle1) a tiny wooden statue of [typeD1].
+1
+
+(Player1) (teaches/teaches/teaches/teaches/teach1) (Player2) how to tie a snare.
+2
+
+(Player1) (follows/follows/follows/follows/follow1) a trail of smoke and (finds/finds/finds/finds/find1) (Player2)'s empty camp.
+2
+
+(Player1) (raids/raids/raids/raids/raid1) (Player2)'s camp while [typeA2] (is/is/are/is/are2) out hunting.
+2
+
+(Player1) (ambushes/ambushes/ambushes/ambushes/ambush1) (Player2), but [typeA2] (fights/fights/fight/fights/fight2) [typeB1] off.
+2
+
+(Player1) and (Player2) spend the day spying on (Player3)'s alliance.
+3
+
+(Player1), (Player2), and (Player3) kick (Player4) out of their alliance.
+4
+
+(Player1) (collects/collects/collects/collects/collect1) rainwater in a tarp.
+1
+
+(Player1) (builds/builds/builds/builds/build1) a raft and (floats/floats/floats/floats/float1) down the river.
+1
+
+(Player1) (finds/finds/finds/finds/find1) a field of edible mushrooms.
+1
+
+(Player1) (hears/hears/hears/hears/hear1) a cannon and (wonders/wonders/wonders/wonders/wonder1) who it was.
+1
+
+(Player1) (loses/loses/loses/loses/lose1) a shoe in the mud and (spends/spends/spends/spends/spend1) the day limping.
+1
+
+(Player1) (scares/scares/scares/scares/scare1) off a pack of wild dogs.
+1
+
+(Player1) (climbs/climbs/climbs/climbs/climb1) a cliff and (finds/finds/finds/finds/find1) a bird's nest full of eggs.
+1
+
+(Player1) (tracks/tracks/tracks/tracks/track1) (Player2) all day, waiting for the right moment.
+2
+
+(Player1) (talks/talks/talks/talks/talk1) to a squirrel for hours.
+1
+
+
+Night Events
+(Player1) (receives/receives/receives/receives/receive1) a hatchet from an unknown sponsor.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) clean water from an unknown sponsor.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) medical supplies from an unknown sponsor.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) fresh food from an unknown sponsor.
+1
+
+(Player1) (thinks/thinks/thinks/thinks/think1) about home.
+1
+
+(Player1) (tends/tends/tends/tends/tend1) to (Player2)'s wounds.
+2
+
+(Player1) (receives/receives/receives/receives/receive1) an explosive from an unknown sponsor.
+1
+
+(Player1) (questions/questions/questions/questions/question1) [typeC1] sanity.
+1
+
+(Player1) (starts/starts/starts/starts/start1) a fire.
+1
+
+(Player1) (sets/sets/sets/sets/set1) up camp for the night.
+1
+
+(Player1) (loses/loses/loses/loses/lose1) sight of where [typeA1] (is/is/are/is/are1).
+1
+
+(Player1) (climbs/climbs/climbs/climbs/climb1) a tree to rest.
+1
+
+(Player1) (goes/goes/goes/goes/go1) to sleep.
+1
+
+(Player1) and (Player2) tell stories about themselves to each other.
+2
+
+(Player1), (Player2), (Player3), and (Player4) sleep in shifts.
+4
+
+(Player1), (Player2), and (Player3) sleep in shifts.
+3
+
+(Player1) and (Player2) sleep in shifts.
+2
+
+(Player1) (tends/tends/tends/tends/tend1) to [typeC1] wounds.
+1
+
+(Player1) (sees/sees/sees/sees/see1) a fire, but (stays/stays/stays/stays/stay1) hidden.
+1
+
+(Player1) (screams/screams/screams/screams/scream1) for help.
+1
+
+(Player1) (stays/stays/stays/stays/stay1) awake all night.
+1
+
+(Player1) (passes/passes/passes/passes/pass1) out from exhaustion.
+1
+
+(Player1) (cooks/cooks/cooks/cooks/cook1) [typeC1] food before putting [typeC1] fire out.
+1
+
+(Player1) and (Player2) run into each other and decide to truce for the night.
+2
+
+(Player1) (fends/fends/fends/fends/fend1) (Player2), (Player3), and (Player4) away from [typeC1] fire.
+4
+
+(Player1), (Player2), and (Player3) discuss the games and what might happen in the morning.
+3
+
+(Player1) (cries/cries/cries/cries/cry1) [typeD1] to sleep.
+1
+
+(Player1) (tries/tries/tries/tries/try1) to treat [typeC1] infection.
+1
+
+(Player1) and (Player2) talk about the tributes still alive.
+2
+
+(Player1) (is/is/is/is/are1) awoken by nightmares.
+1
+
+(Player1) and (Player2) huddle for warmth.
+2
+
+(Player1) (thinks/thinks/thinks/thinks/think1) about winning.
+1
+
+(Player1), (Player2), (Player3), and (Player4) tell each other ghost stories to lighten the mood.
+4
+
+(Player1) (looks/looks/looks/looks/look1) at the night sky.
+1
+
+(Player1) (defeats/defeats/defeats/defeats/defeat1) (Player2) in a fight, but (spares/spares/spares/spares/spare1) [typeC2] life.
+2
+
+(Player1) (begs/begs/begs/begs/beg1) for (Player2) to kill [typeB1]. [TypeA2] (refuses/refuses/refuse/refuses/refuse2), keeping (Player1) alive.
+2
+
+(Player1) (destroys/destroys/destroys/destroys/destroy1) (Player2)'s supplies while [typeA2] (is/is/are/is/are2) asleep.
+2
+
+(Player1), (Player2), (Player3), (Player4), and (Player5) sleep in shifts.
+5
+
+(Player1) (lets/lets/lets/lets/let1) (Player2) into [typeC1] shelter.
+2
+
+(Player1) (tries/tries/tries/tries/try1) to sing [typeD1] to sleep.
+1
+
+(Player1) (attempts/attempts/attempts/attempts/attempt1) to start a fire, but (is/is/is/is/are1) unsuccessful.
+1
+
+(Player1) quietly (hums/hums/hums/hums/hum1).
+1
+
+(Player1), (Player2), and (Player3) cheerfully sing songs together.
+3
+
+(Player1) (is/is/is/is/are1) unable to start a fire and (sleeps/sleeps/sleeps/sleeps/sleep1) without warmth.
+1
+
+(Player1) and (Player2) hold hands.
+2
+
+(Player1) (convinces/convinces/convinces/convinces/convince1) (Player2) to snuggle with [typeB1].
+2
+
+(Player1) (hears/hears/hears/hears/hear1) footsteps nearby and (holds/holds/holds/holds/hold1) [typeC1] breath until they pass.
+1
+
+(Player1) (watches/watches/watches/watches/watch1) the faces of the fallen in the sky.
+1
+
+(Player1) (counts/counts/counts/counts/count1) the faces in the sky and (realizes/realizes/realizes/realizes/realize1) how few tributes are left.
+1
+
+(Player1) (stays/stays/stays/stays/stay1) up late sharpening [typeC1] weapon.
+1
+
+(Player1) (sneaks/sneaks/sneaks/sneaks/sneak1) into (Player2)'s camp and (steals/steals/steals/steals/steal1) [typeC2] food.
+2
+
+(Player1) (sneaks/sneaks/sneaks/sneaks/sneak1) into (Player2)'s camp, but (loses/loses/loses/loses/lose1) [typeC1] nerve and (leaves/leaves/leaves/leaves/leave1).
+2
+
+(Player1) (keeps/keeps/keeps/keeps/keep1) watch while (Player2) (sleeps/sleeps/sleeps/sleeps/sleep2).
+2
+
+(Player1) (falls/falls/falls/falls/fall1) asleep on watch, leaving (Player2) and (Player3) unprotected.
+3
+
+(Player1) (sleepwalks/sleepwalks/sleepwalks/sleepwalks/sleepwalk1) right past (Player2)'s camp.
+2
+
+(Player1) (talks/talks/talks/talks/talk1) in [typeC1] sleep, revealing [typeC1] hiding spot to (Player2).
+2
+
+(Player1) and (Player2) stargaze and make up their own constellations.
+2
+
+(Player1) (tells/tells/tells/tells/tell1) (Player2) a secret [typeA1] (has/has/have/has/have1) never told anyone.
+2
+
+(Player1) (whispers/whispers/whispers/whispers/whisper1) to (Player2) about a plan to betray (Player3).
+3
+
+(Player1) (hears/hears/hears/hears/hear1) (Player2) crying in the distance.
+2
+
+(Player1) (is/is/is/is/are1) kept awake by howling in the distance.
+1
+
+(Player1) (builds/builds/builds/builds/build1) a shelter out of leaves and branches.
+1
+
+(Player1) (wraps/wraps/wraps/wraps/wrap1) [typeD1] in leaves to keep warm.
+1
+
+(Player1) (sees/sees/sees/sees/see1) a pair of glowing eyes watching [typeB1] from the dark.
+1
+
+(Player1), (Player2), and (Player3) play rock-paper-scissors to decide who keeps watch.
+3
+
+(Player1) and (Player2) share their last bit of food.
+2
+
+(Player1) (shares/shares/shares/shares/share1) a sleeping bag with (Player2).
+2
+
+(Player1) (writes/writes/writes/writes/write1) a goodbye letter to [typeC1] family, just in case.
+1
+
+(Player1) (steals/steals/steals/steals/steal1) (Player2)'s sleeping bag.
+2
+
+(Player1) (receives/receives/receives/receives/receive1) a warm blanket from an unknown sponsor.
+1
+
+(Player1) (receives/receives/receives/receives/receive1) a pot of hot soup from an unknown sponsor.
+1
+
+(Player1) (dances/dances/dances/dances/dance1) for the cameras, hoping to attract a sponsor.
+1
+
+(Player1) (wakes/wakes/wakes/wakes/wake1) up to find (Player2) staring at [typeB1] from across the clearing.
+2
+
+(Player1) (lies/lies/lies/lies/lie1) awake thinking about everyone [typeA1] (has/has/have/has/have1) lost.
+1
+
+(Player1) (makes/makes/makes/makes/make1) a torch and (explores/explores/explores/explores/explore1) a cave.
+1
+
+(Player1) (hums/hums/hums/hums/hum1) along to the anthem.
+1
+
+(Player1)'s loud snoring leads (Player2) to [typeC1] camp, but (Player2) (decides/decides/decides/decides/decide2) to let [typeB1] sleep.
+2
+
+(Player1) and (Player2) argue about whether to trust (Player3).
+3
+
+(Player1) (dreams/dreams/dreams/dreams/dream1) about a feast back home.
+1
+
+(Player1) (sneaks/sneaks/sneaks/sneaks/sneak1) away from [typeC1] alliance in the middle of the night.
+1
+
+(Player1), (Player2), (Player3), and (Player4) huddle around a tiny fire.
+4
+
+(Player1) (sets/sets/sets/sets/set1) up a tripwire around [typeC1] camp.
+1
+
+(Player1) (trips/trips/trips/trips/trip1) over (Player2)'s tripwire, and they both run off screaming.
+2
+
+(Player1) (hides/hides/hides/hides/hide1) in a tree while (Player2) (searches/searches/searches/searches/search2) below.
+2
+
+(Player1) and (Player2) promise to protect each other no matter what.
+2
+
+(Player1) (practices/practices/practices/practices/practice1) what [typeA1] will say in [typeC1] victor's interview.
+1
+
+(Player1) (tries/tries/tries/tries/try1) to fish in the dark and (falls/falls/falls/falls/fall1) in the river.
+1
+
+(Player1) (sees/sees/sees/sees/see1) (Player2) shivering in [typeC2] sleep and (covers/covers/covers/covers/cover1) [typeB2] with a blanket.
+2
+
+(Player1) (is/is/is/is/are1) unable to stop shivering.
+1
+
+(Player1) (hears/hears/hears/hears/hear1) a cannon in the middle of the night.
+1
+
+(Player1) (sneaks/sneaks/sneaks/sneaks/sneak1) a peek at (Player2)'s supplies while [typeA2] (sleeps/sleeps/sleep/sleeps/sleep2).
+2
+
+(Player1) and (Player2) whisper about who they think will win.
+2
+
+(Player1) (wakes/wakes/wakes/wakes/wake1) up and (realizes/realizes/realizes/realizes/realize1) [typeC1] supplies have been stolen.
+1
+
+(Player1), (Player2), (Player3), (Player4), and (Player5) debate whether it's time to break up the alliance.
+5
+
+(Player1) (tries/tries/tries/tries/try1) to count the stars to fall asleep.
+1
+
+(Player1) (sees/sees/sees/sees/see1) a fire in the distance and (sneaks/sneaks/sneaks/sneaks/sneak1) closer to investigate.
+1
+
+(Player1) (hears/hears/hears/hears/hear1) (Player2) and (Player3) plotting against [typeB1].
+3
+
+(Player1) (cleans/cleans/cleans/cleans/clean1) and (bandages/bandages/bandages/bandages/bandage1) (Player2)'s wounds by the firelight.
+2
+
+
+Feast Events
+(Player1) (gathers/gathers/gathers/gathers/gather1) as much food into a bag as [typeA1] can before fleeing.
+1
+
+(Player1) (sobs/sobs/sobs/sobs/sob1) while gripping a photo of [typeC1] friends and family.
+1
+
+(Player1) and (Player2) decide to work together to get more supplies.
+2
+
+(Player1) and (Player2) get into a fight over raw meat, but (Player2) (gives/gives/gives/gives/give2) up and (runs/runs/runs/runs/run2) away.
+2
+
+(Player1) and (Player2) get into a fight over raw meat, but (Player1) (gives/gives/gives/gives/give1) up and (runs/runs/runs/runs/run1) away.
+2
+
+(Player1), (Player2), and (Player3) confront each other, but grab what they want slowly to avoid conflict.
+3
+
+(Player1) (destroys/destroys/destroys/destroys/destroy1) (Player2)'s memoirs out of spite.
+2
+
+(Player1), (Player2), (Player3), and (Player4) team up to grab food, supplies, weapons, and memoirs.
+4
+
+(Player1) (steals/steals/steals/steals/steal1) (Player2)'s memoirs.
+2
+
+(Player1) (takes/takes/takes/takes/take1) a staff leaning against the cornucopia.
+1
+
+(Player1) (stuffs/stuffs/stuffs/stuffs/stuff1) a bundle of dry clothing into a backpack before sprinting away.
+1
+
+(Player1) (sneaks/sneaks/sneaks/sneaks/sneak1) in and (grabs/grabs/grabs/grabs/grab1) [typeC1] bag while no one is looking.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) (Player2)'s bag by mistake.
+2
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a bag of medicine and (sprints/sprints/sprints/sprints/sprint1) back to (Player2).
+2
+
+(Player1) (decides/decides/decides/decides/decide1) the feast isn't worth the risk and (stays/stays/stays/stays/stay1) away.
+1
+
+(Player1) (watches/watches/watches/watches/watch1) the feast from a tree, waiting for an opening.
+1
+
+(Player1) and (Player2) create a distraction while (Player3) (grabs/grabs/grabs/grabs/grab3) their bags.
+3
+
+(Player1) (finds/finds/finds/finds/find1) a letter from home in [typeC1] bag.
+1
+
+(Player1) (finds/finds/finds/finds/find1) a hot meal in [typeC1] bag and (eats/eats/eats/eats/eat1) it on the spot.
+1
+
+(Player1) (opens/opens/opens/opens/open1) [typeC1] bag to find a single grape.
+1
+
+(Player1) (steals/steals/steals/steals/steal1) two bags and (gives/gives/gives/gives/give1) one to (Player2).
+2
+
+(Player1) (throws/throws/throws/throws/throw1) a smoke bomb and (escapes/escapes/escapes/escapes/escape1) with three bags.
+1
+
+(Player1) (gets/gets/gets/gets/get1) to the table first and (takes/takes/takes/takes/take1) everything.
+1
+
+(Player1), (Player2), (Player3), and (Player4) all reach for the same bag and freeze.
+4
+
+(Player1) (ambushes/ambushes/ambushes/ambushes/ambush1) (Player2) on [typeC2] way back, but [typeA2] (escapes/escapes/escape/escapes/escape2) with the bag.
+2
+
+(Player1) (lures/lures/lures/lures/lure1) (Player2) away from the feast so (Player3) can grab supplies.
+3
+
+(Player1) (finds/finds/finds/finds/find1) a mysterious key in [typeC1] bag.
+1
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a pair of boots and a warm coat.
+1
+
+(Player1) (hides/hides/hides/hides/hide1) under the feast table until everyone leaves.
+1
+
+(Player1) (trades/trades/trades/trades/trade1) bags with (Player2), and they both get exactly what they needed.
+2
+
+(Player1) (shares/shares/shares/shares/share1) the contents of [typeC1] bag with (Player2) and (Player3).
+3
+
+
+Arena Events
+Wolf mutts are let loose in the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (climbs/climbs/climbs/climbs/climb1) a tree and (waits/waits/waits/waits/wait1) for the wolves to leave.
+1
+(Player1) and (Player2) fight off the wolf mutts back to back.
+2
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) crushed by a pack of wolf mutts.
+1
+None
+Player1
+(Player1) (is/is/is/is/are1) eaten by wolf mutts.
+1
+None
+Player1
+(Player1) (knocks/knocks/knocks/knocks/knock1) (Player2) out and (leaves/leaves/leaves/leaves/leave1) [typeB2] for the wolf mutts.
+2
+Player1
+Player2
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) into a pack of wolf mutts.
+2
+Player1
+Player2
+As (Player1) and (Player2) fight, a pack of wolf mutts show up and kill them both.
+2
+None
+Player1, Player2
+
+Acidic rain pours down on the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (huddles/huddles/huddles/huddles/huddle1) under a rock overhang until the rain stops.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) unable to find shelter and (dies/dies/dies/dies/die1).
+1
+None
+Player1
+(Player1) (trips/trips/trips/trips/trip1) face first into a puddle of acidic rain.
+1
+None
+Player1
+(Player1) (injures/injures/injures/injures/injure1) (Player2) and (leaves/leaves/leaves/leaves/leave1) [typeB2] in the rain to die.
+2
+Player1
+Player2
+(Player1) (refuses/refuses/refuses/refuses/refuse1) (Player2) shelter, killing [typeB2].
+2
+Player1
+Player2
+(Player1) (shoves/shoves/shoves/shoves/shove1) (Player2) into a pond of acidic rain, but (is/is/is/is/are1) pulled in by (Player2), killing them both.
+2
+None
+Player1, Player2
+
+A cloud of poisonous smoke starts to fill the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (holds/holds/holds/holds/hold1) [typeC1] breath and (outruns/outruns/outruns/outruns/outrun1) the cloud.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) engulfed in the cloud of poisonous smoke.
+1
+None
+Player1
+(Player1) (sacrifices/sacrifices/sacrifices/sacrifices/sacrifice1) [typeD1] so (Player2) can get away.
+2
+None
+Player1
+(Player1) slowly (pushes/pushes/pushes/pushes/push1) (Player2) closer into the cloud until [typeA2] can't resist any more.
+2
+Player1
+Player2
+(Player1) and (Player2) agree to die in the cloud together, but (Player1) (pushes/pushes/pushes/pushes/push1) (Player2) in without warning.
+2
+Player1
+Player2
+(Player1) and (Player2) decide to run into the cloud together.
+2
+None
+Player1, Player2
+
+A monstrous hurricane wreaks havoc on the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (ties/ties/ties/ties/tie1) [typeD1] to a sturdy tree and (rides/rides/rides/rides/ride1) out the storm.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) sucked into the hurricane.
+1
+None
+Player1
+(Player1) (is/is/is/is/are1) incapacitated by flying debris and (dies/dies/dies/dies/die1).
+1
+None
+Player1
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) into an incoming boulder.
+2
+Player1
+Player2
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2), then (pushes/pushes/pushes/pushes/push1) [typeB2] close enough to the hurricane to suck [typeB2] in.
+2
+Player1
+Player2
+(Player1) (tries/tries/tries/tries/try1) to save (Player2) from being sucked into the hurricane, only to be sucked in as well.
+2
+None
+Player1, Player2
+
+A swarm of tracker jackers invades the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (dives/dives/dives/dives/dive1) into a lake to escape the swarm.
+1
+(Player1) (pulls/pulls/pulls/pulls/pull1) the stingers out of (Player2) and (saves/saves/saves/saves/save1) [typeC2] life.
+2
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) stung to death.
+1
+None
+Player1
+(Player1) slowly (dies/dies/dies/dies/die1) from the tracker jacker toxins.
+1
+None
+Player1
+(Player1) (knocks/knocks/knocks/knocks/knock1) (Player2) unconscious and (leaves/leaves/leaves/leaves/leave1) [typeB2] there as bait.
+2
+Player1
+Player2
+While running away from the tracker jackers, (Player1) (grabs/grabs/grabs/grabs/grab1) (Player2) and (throws/throws/throws/throws/throw1) [typeB2] to the ground.
+2
+Player1
+Player2
+(Player1) and (Player2) run out of places to run and are stung to death.
+2
+None
+Player1, Player2
+
+A tsunami rolls into the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (climbs/climbs/climbs/climbs/climb1) to the top of the cornucopia and (waits/waits/waits/waits/wait1) for the water to recede.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) swept away.
+1
+None
+Player1
+(Player1) fatally (injures/injures/injures/injures/injure1) [typeD1] on debris.
+1
+None
+Player1
+(Player1) (holds/holds/holds/holds/hold1) (Player2) underwater until [typeA2] (drowns/drowns/drown/drowns/drown2).
+2
+Player1
+Player2
+(Player1) (defeats/defeats/defeats/defeats/defeat1) (Player2), but (throws/throws/throws/throws/throw1) [typeB2] in the water to make sure [typeA2] (dies/dies/dies/dies/die2).
+2
+Player1
+Player2
+(Player1) and (Player2) smash their heads together as the tsunami rolls in, leaving them both to drown.
+2
+None
+Player1, Player2
+
+A fire spreads throughout the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (dives/dives/dives/dives/dive1) into a river to escape the flames.
+1
+Fatal Scenarios
+The fire catches up to (Player1), killing [typeB1].
+1
+None
+Player1
+A fireball strikes (Player1), killing [typeB1].
+1
+None
+Player1
+(Player1) (kills/kills/kills/kills/kill1) (Player2) in order to utilize a body of water safely.
+2
+Player1
+Player2
+(Player1) (falls/falls/falls/falls/fall1) to the ground, but (kicks/kicks/kicks/kicks/kick1) (Player2) hard enough to then push [typeB2] into the fire.
+2
+Player1
+Player2
+(Player1) and (Player2) fail to find a safe spot and suffocate.
+2
+None
+Player1, Player2
+
+The arena's border begins to rapidly contract.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (sprints/sprints/sprints/sprints/sprint1) toward the center just in time.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) electrocuted by the border.
+1
+None
+Player1
+(Player1) (trips/trips/trips/trips/trip1) on a tree root and (is/is/is/is/are1) unable to recover fast enough.
+1
+None
+Player1
+(Player1) (restrains/restrains/restrains/restrains/restrain1) (Player2) to a tree and (leaves/leaves/leaves/leaves/leave1) [typeB2] to die.
+2
+Player1
+Player2
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) into the border while [typeA2] (is/is/are/is/are2) not paying attention.
+2
+Player1
+Player2
+Thinking they could escape, (Player1) and (Player2) attempt to run through the border together.
+2
+None
+Player1, Player2
+
+Monkey mutts fill the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (fights/fights/fights/fights/fight1) off the monkey mutts with a spear.
+1
+Fatal Scenarios
+(Player1) (dies/dies/dies/dies/die1) from internal bleeding caused by a monkey mutt.
+1
+None
+Player1
+(Player1) (is/is/is/is/are1) pummeled to the ground and killed by a troop of monkey mutts.
+1
+None
+Player1
+(Player1) (uses/uses/uses/uses/use1) (Player2) as a shield from the monkey mutts.
+2
+Player1
+Player2
+(Player1) (injures/injures/injures/injures/injure1) (Player2) and (leaves/leaves/leaves/leaves/leave1) [typeB2] for the monkey mutts.
+2
+Player1
+Player2
+While running, (Player1) (falls/falls/falls/falls/fall1) over and (grabs/grabs/grabs/grabs/grab1) (Player2) on the way down. The monkey mutts kill them.
+2
+None
+Player1, Player2
+
+Carnivorous squirrels start attacking the tributes.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (bribes/bribes/bribes/bribes/bribe1) the squirrels with a bag of nuts.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) brutally attacked by a scurry of squirrels.
+1
+None
+Player1
+(Player1) (tries/tries/tries/tries/try1) to kill as many squirrels as [typeA1] can, but there are too many.
+1
+None
+Player1
+(Player1) (uses/uses/uses/uses/use1) the squirrels to [typeC1] advantage, shoving (Player2) into them.
+2
+Player1
+Player2
+(Player1), in agony, (kills/kills/kills/kills/kill1) (Player2) so [typeA2] (does/does/do/does/do2) not have to be attacked by the squirrels.
+2
+Player1
+Player2
+The squirrels separate and kill (Player1) and (Player2).
+2
+None
+Player1, Player2
+
+A volcano erupts at the center of the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (outruns/outruns/outruns/outruns/outrun1) the lava flow.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) buried in ash.
+1
+None
+Player1
+(Player1) (suffocates/suffocates/suffocates/suffocates/suffocate1).
+1
+None
+Player1
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) in the lava.
+2
+Player1
+Player2
+(Player1) (dips/dips/dips/dips/dip1) [typeC1] weapon in the lava and (kills/kills/kills/kills/kill1) (Player2) with it.
+2
+Player1
+Player2
+As (Player1) (trips/trips/trips/trips/trip1) over (Player2) into the lava, [typeA1] (grabs/grabs/grab/grabs/grab1) [typeB2] and (pulls/pulls/pull/pulls/pull1) [typeB2] down with [typeB1].
+2
+None
+Player1, Player2
+
+The arena turns pitch black and nobody can see a thing.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (stays/stays/stays/stays/stay1) perfectly still until the light returns.
+1
+Fatal Scenarios
+(Player1) (trips/trips/trips/trips/trip1) on a rock and (falls/falls/falls/falls/fall1) off a cliff.
+1
+None
+Player1
+(Player1) accidentally (makes/makes/makes/makes/make1) contact with spiny, lethal plant life.
+1
+None
+Player1
+(Player1) (flails/flails/flails/flails/flail1) [typeC1] weapon around, accidentally killing (Player2).
+2
+Player1
+Player2
+(Player1) (finds/finds/finds/finds/find1) and (kills/kills/kills/kills/kill1) (Player2), who was making too much noise.
+2
+Player1
+Player2
+While fighting, (Player1) and (Player2) lose their balance, roll down a jagged hillside, and die.
+2
+None
+Player1, Player2
+
+The remaining tributes begin to hallucinate.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (spends/spends/spends/spends/spend1) the whole time convinced [typeA1] (is/is/are/is/are1) a duck, but (survives/survives/survives/survives/survive1).
+1
+Fatal Scenarios
+(Player1) (eats/eats/eats/eats/eat1) a scorpion, thinking it is a delicate dessert.
+1
+None
+Player1
+(Player1) (hugs/hugs/hugs/hugs/hug1) a tracker jacker nest, believing it to be a pillow.
+1
+None
+Player1
+(Player1) (mistakes/mistakes/mistakes/mistakes/mistake1) (Player2) for a bear and kills [typeB2].
+2
+Player1
+Player2
+(Player1) (drowns/drowns/drowns/drowns/drown1) (Player2), who [typeA1] thought was a shark trying to eat [typeB1].
+2
+Player1
+Player2
+(Player1) and (Player2) decide to jump down the rabbit hole to Wonderland, which turns out to be a pit of rocks.
+2
+None
+Player1, Player2
+
+A massive earthquake shakes the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (clings/clings/clings/clings/cling1) to a tree until the shaking stops.
+1
+(Player1) and (Player2) brace each other and make it through.
+2
+Fatal Scenarios
+(Player1) (falls/falls/falls/falls/fall1) into a crack in the earth.
+1
+None
+Player1
+(Player1) (is/is/is/is/are1) crushed by a falling boulder.
+1
+None
+Player1
+(Player1) (shoves/shoves/shoves/shoves/shove1) (Player2) into a widening crack in the ground.
+2
+Player1
+Player2
+(Player1) (leaves/leaves/leaves/leaves/leave1) (Player2) pinned under a fallen tree.
+2
+Player1
+Player2
+(Player1) and (Player2) are swallowed by a landslide.
+2
+None
+Player1, Player2
+
+A sudden blizzard buries the arena in snow.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (digs/digs/digs/digs/dig1) a snow cave and (waits/waits/waits/waits/wait1) out the storm.
+1
+(Player1) and (Player2) huddle together and keep each other warm.
+2
+Fatal Scenarios
+(Player1) (freezes/freezes/freezes/freezes/freeze1) to death.
+1
+None
+Player1
+(Player1) (wanders/wanders/wanders/wanders/wander1) off in the whiteout and (is/is/is/is/are1) never seen again.
+1
+None
+Player1
+(Player1) (steals/steals/steals/steals/steal1) (Player2)'s coat, leaving [typeB2] to freeze.
+2
+Player1
+Player2
+(Player1) (buries/buries/buries/buries/bury1) (Player2) in a snowdrift.
+2
+Player1
+Player2
+(Player1) and (Player2) are buried by an avalanche.
+2
+None
+Player1, Player2
+
+Giant spider mutts crawl out of the ground.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (burns/burns/burns/burns/burn1) through the webs with a torch.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) wrapped in silk and dragged underground.
+1
+None
+Player1
+(Player1) (walks/walks/walks/walks/walk1) face first into a giant web.
+1
+None
+Player1
+(Player1) (cuts/cuts/cuts/cuts/cut1) [typeD1] free from a web, leaving (Player2) stuck behind.
+2
+Player1
+Player2
+(Player1) (shoves/shoves/shoves/shoves/shove1) (Player2) into a nest of spider mutts.
+2
+Player1
+Player2
+(Player1) and (Player2) are surrounded by spider mutts while fighting each other.
+2
+None
+Player1, Player2
+
+Mutt crocodiles flood the arena's rivers and lakes.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (stays/stays/stays/stays/stay1) on high ground far from the water.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) dragged under while getting water.
+1
+None
+Player1
+(Player1) (mistakes/mistakes/mistakes/mistakes/mistake1) a crocodile mutt for a log and (tries/tries/tries/tries/try1) to sit on it.
+1
+None
+Player1
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) into the water as a distraction.
+2
+Player1
+Player2
+(Player1) (uses/uses/uses/uses/use1) (Player2) as bait to cross the river.
+2
+Player1
+Player2
+(Player1) and (Player2) try to cross the river together and don't make it.
+2
+None
+Player1, Player2
+
+A violent lightning storm strikes the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (crouches/crouches/crouches/crouches/crouch1) low in a ditch until the storm passes.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) struck by lightning.
+1
+None
+Player1
+(Player1) (shelters/shelters/shelters/shelters/shelter1) under the tallest tree in the arena. Bad idea.
+1
+None
+Player1
+(Player1) (tricks/tricks/tricks/tricks/trick1) (Player2) into holding a metal spear up to the sky.
+2
+Player1
+Player2
+(Player1) (kicks/kicks/kicks/kicks/kick1) (Player2) out of [typeC1] shelter and into the storm.
+2
+Player1
+Player2
+(Player1) and (Player2) are struck by the same bolt of lightning mid-fight.
+2
+None
+Player1, Player2
+
+Mutts wearing the faces of the fallen tributes roam the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (recognizes/recognizes/recognizes/recognizes/recognize1) the trick and (runs/runs/runs/runs/run1) the other way.
+1
+Fatal Scenarios
+(Player1) (follows/follows/follows/follows/follow1) a familiar face into the woods and never (returns/returns/returns/returns/return1).
+1
+None
+Player1
+(Player1) (freezes/freezes/freezes/freezes/freeze1) in shock and (is/is/is/is/are1) torn apart.
+1
+None
+Player1
+(Player1) (convinces/convinces/convinces/convinces/convince1) (Player2) that the mutt is really [typeC2] friend.
+2
+Player1
+Player2
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) toward the mutts so [typeA1] can escape.
+2
+Player1
+Player2
+(Player1) and (Player2) try to fight off the mutts together, but there are too many.
+2
+None
+Player1, Player2
+
+Sinkholes begin opening up all over the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (leaps/leaps/leaps/leaps/leap1) to safety just as the ground gives way.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) swallowed by a sinkhole.
+1
+None
+Player1
+(Player1) (falls/falls/falls/falls/fall1) into a sinkhole while sleeping.
+1
+None
+Player1
+(Player1) (refuses/refuses/refuses/refuses/refuse1) to pull (Player2) out of a sinkhole.
+2
+Player1
+Player2
+(Player1) (lures/lures/lures/lures/lure1) (Player2) onto unstable ground.
+2
+Player1
+Player2
+(Player1) (tries/tries/tries/tries/try1) to pull (Player2) out of a sinkhole, but they both fall in.
+2
+None
+Player1, Player2
+
+Jabberjays fill the arena with the screams of the tributes' loved ones.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (covers/covers/covers/covers/cover1) [typeC1] ears and (hums/hums/hums/hums/hum1) until it ends.
+1
+(Player1) (comforts/comforts/comforts/comforts/comfort1) (Player2) until the screaming stops.
+2
+Fatal Scenarios
+(Player1) (runs/runs/runs/runs/run1) toward the voices and straight off a cliff.
+1
+None
+Player1
+(Player1) (is/is/is/is/are1) so distracted by the voices that [typeA1] (walks/walks/walk/walks/walk1) into a trap.
+1
+None
+Player1
+(Player1) (sneaks/sneaks/sneaks/sneaks/sneak1) up on (Player2) while [typeA2] (is/is/are/is/are2) distracted by the screams.
+2
+Player1
+Player2
+(Player1) (uses/uses/uses/uses/use1) the noise as cover to ambush (Player2).
+2
+Player1
+Player2
+(Player1) and (Player2) chase the same voice into a ravine.
+2
+None
+Player1, Player2
+
+A scorching heat wave dries up every water source in the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (digs/digs/digs/digs/dig1) for water and (finds/finds/finds/finds/find1) just enough.
+1
+(Player1) (shares/shares/shares/shares/share1) [typeC1] last canteen with (Player2), and they both survive.
+2
+Fatal Scenarios
+(Player1) (dies/dies/dies/dies/die1) of heatstroke.
+1
+None
+Player1
+(Player1) (drinks/drinks/drinks/drinks/drink1) from a stagnant pond and (dies/dies/dies/dies/die1).
+1
+None
+Player1
+(Player1) (kills/kills/kills/kills/kill1) (Player2) for [typeC2] canteen.
+2
+Player1
+Player2
+(Player1) (guards/guards/guards/guards/guard1) the last spring and (kills/kills/kills/kills/kill1) (Player2) when [typeA2] (gets/gets/get/gets/get2) too close.
+2
+Player1
+Player2
+(Player1) and (Player2) fight over the last bit of water until they both collapse.
+2
+None
+Player1, Player2
+
+Man-eating plant mutts bloom across the arena.
+Surviving Scenarios
+(Player1) (survives/survives/survives/survives/survive1).
+1
+(Player1) (hacks/hacks/hacks/hacks/hack1) [typeC1] way out of a carnivorous vine.
+1
+Fatal Scenarios
+(Player1) (is/is/is/is/are1) swallowed whole by a giant flower.
+1
+None
+Player1
+(Player1) (sniffs/sniffs/sniffs/sniffs/sniff1) a pretty flower and (falls/falls/falls/falls/fall1) asleep forever.
+1
+None
+Player1
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) into a patch of snapping plants.
+2
+Player1
+Player2
+(Player1) (ties/ties/ties/ties/tie1) (Player2) up next to a hungry plant mutt.
+2
+Player1
+Player2
+(Player1) and (Player2) are tangled in the same vines and pulled under.
+2
+None
+Player1, Player2
+
+
+Endgame Events
+[Players] threaten suicide.
+They survive and win.
+They die and lose.
+75%
+
+
+Fatal Bloodbath Events
+(Player1) (steps/steps/steps/steps/step1) off [typeC1] podium too soon and (blows/blows/blows/blows/blow1) up.
+1
+None
+Player1
+
+(Player1) (throws/throws/throws/throws/throw1) a knife into (Player2)'s (head/head/head/head/heads2).
+2
+Player1
+Player2
+
+(Player1) accidentally (steps/steps/steps/steps/step1) on a landmine.
+1
+None
+Player1
+
+(Player1) (catches/catches/catches/catches/catch1) (Player2) off guard and (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1) and (Player2) work together to drown (Player3).
+3
+Player1, Player2
+Player3
+
+(Player1) (strangles/strangles/strangles/strangles/strangle1) (Player2) after engaging in a fist fight.
+2
+Player1
+Player2
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) an arrow into (Player2)'s (head/head/head/head/heads2).
+2
+Player1
+Player2
+
+(Player1) cannot handle the circumstances and (commits/commits/commits/commits/commit1) suicide.
+1
+None
+Player1
+
+(Player1) (bashes/bashes/bashes/bashes/bash1) (Player2)'s (head/head/head/head/heads2) against a rock several times.
+2
+Player1
+Player2
+
+(Player1) (snaps/snaps/snaps/snaps/snap1) (Player2)'s (neck/neck/neck/neck/necks2).
+2
+Player1
+Player2
+
+(Player1) (decapitates/decapitates/decapitates/decapitates/decapitate1) (Player2) with a sword.
+2
+Player1
+Player2
+
+(Player1) (spears/spears/spears/spears/spear1) (Player2) in the abdomen.
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) (Player2) on fire with a molotov.
+2
+Player1
+Player2
+
+(Player1) (falls/falls/falls/falls/fall1) into a pit and (dies/dies/dies/dies/die1).
+1
+None
+Player1
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) while [typeC2] (back is/back is/back is/back is/backs are2) turned.
+2
+Player1
+Player2
+
+(Player1) severely (injures/injures/injures/injures/injure1) (Player2), but (puts/puts/puts/puts/put1) [typeB2] out of [typeC2] misery.
+2
+Player1
+Player2
+
+(Player1) severely (injures/injures/injures/injures/injure1) (Player2) and (leaves/leaves/leaves/leaves/leave1) [typeB2] to die.
+2
+Player1
+Player2
+
+(Player1) (bashes/bashes/bashes/bashes/bash1) (Player2)'s (head/head/head/head/heads2) in with a mace.
+2
+Player1
+Player2
+
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) off a cliff during a knife fight.
+2
+Player1
+Player2
+
+(Player1) (throws/throws/throws/throws/throw1) a knife into (Player2)'s (chest/chest/chest/chest/chests2).
+2
+Player1
+Player2
+
+(Player1) (is/is/is/is/are1) unable to convince (Player2) to not kill [typeB1].
+2
+Player2
+Player1
+
+(Player1) (convinces/convinces/convinces/convinces/convince1) (Player2) to not kill [typeB1], only to kill [typeB2] instead.
+2
+Player1
+Player2
+
+(Player1) (falls/falls/falls/falls/fall1) into a frozen lake and (drowns/drowns/drowns/drowns/drown1).
+1
+None
+Player1
+
+(Player1), (Player2), and (Player3) start fighting, but (Player2) (runs/runs/runs/runs/run2) away as (Player1) (kills/kills/kills/kills/kill1) (Player3).
+3
+Player1
+Player3
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with [typeC2] own weapon.
+2
+Player1
+Player2
+
+(Player1) (overpowers/overpowers/overpowers/overpowers/overpower1) (Player2), killing [typeB2].
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2).
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), and (Player3).
+3
+Player1
+Player2, Player3
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), (Player3), and (Player4).
+4
+Player1
+Player2, Player3, Player4
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), (Player3), (Player4) and (Player5).
+5
+Player1
+Player2, Player3, Player4, Player5
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) as [typeA2] (tries/tries/try/tries/try2) to run.
+2
+Player1
+Player2
+
+(Player1), (Player2), (Player3), and (Player4) form a suicide pact, killing themselves.
+4
+None
+Player1, Player2, Player3, Player4
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with a hatchet.
+2
+Player1
+Player2
+
+(Player1) and (Player2) fight (Player3) and (Player4). (Player1) and (Player2) survive.
+4
+Player1, Player2
+Player3, Player4
+
+(Player1) and (Player2) fight (Player3) and (Player4). (Player3) and (Player4) survive.
+4
+Player3, Player4
+Player1, Player2
+
+(Player1) (attacks/attacks/attacks/attacks/attack1) (Player2), but (Player3) (protects/protects/protects/protects/protect3) [typeB2], killing (Player1).
+3
+Player3
+Player1
+
+(Player1) severely (slices/slices/slices/slices/slice1) (Player2) with a sword.
+2
+Player1
+Player2
+
+(Player1) (strangles/strangles/strangles/strangles/strangle1) (Player2) with a rope.
+2
+Player1
+Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) for [typeC2] supplies.
+2
+Player1
+Player2
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) an arrow at (Player2), but (misses/misses/misses/misses/miss1) and (kills/kills/kills/kills/kill1) (Player3) instead.
+3
+Player1
+Player3
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) a poisonous blow dart into (Player2)'s (neck/neck/neck/neck/necks2), slowly killing [typeB2].
+2
+Player1
+Player2
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) with a tree branch.
+2
+Player1
+Player2
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) in the (back/back/back/back/backs2) with a trident.
+2
+Player1
+Player2
+
+(Player1), (Player2), and (Player3) get into a fight. (Player1) triumphantly (kills/kills/kills/kills/kill1) them both.
+3
+Player1
+Player2, Player3
+
+(Player1), (Player2), and (Player3) get into a fight. (Player2) triumphantly (kills/kills/kills/kills/kill2) them both.
+3
+Player2
+Player1, Player3
+
+(Player1), (Player2), and (Player3) get into a fight. (Player3) triumphantly (kills/kills/kills/kills/kill3) them both.
+3
+Player3
+Player1, Player2
+
+(Player1) (finds/finds/finds/finds/find1) (Player2) hiding in the cornucopia and (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1) (finds/finds/finds/finds/find1) (Player2) hiding in the cornucopia, but (Player2) (kills/kills/kills/kills/kill2) [typeB1].
+2
+Player2
+Player1
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with a sickle.
+2
+Player1
+Player2
+
+(Player1) and (Player2) fight for a bag. (Player1) (strangles/strangles/strangles/strangles/strangle1) (Player2) with the straps and (runs/runs/runs/runs/run1).
+2
+Player1
+Player2
+
+(Player1) and (Player2) fight for a bag. (Player2) (strangles/strangles/strangles/strangles/strangle2) (Player1) with the straps and (runs/runs/runs/runs/run2).
+2
+Player2
+Player1
+
+(Player1) repeatedly (stabs/stabs/stabs/stabs/stab1) (Player2) to death with sais.
+2
+Player1
+Player2
+
+(Player1) (trips/trips/trips/trips/trip1) over a crate, and (Player2) (finishes/finishes/finishes/finishes/finish2) [typeB1] off.
+2
+Player2
+Player1
+
+(Player1) and (Player2) both reach for the same axe. (Player1) (gets/gets/gets/gets/get1) to it first.
+2
+Player1
+Player2
+
+(Player1) (topples/topples/topples/topples/topple1) a crate of supplies onto (Player2).
+2
+Player1
+Player2
+
+(Player1) (throws/throws/throws/throws/throw1) a spear at (Player2) from across the field.
+2
+Player1
+Player2
+
+(Player1) (tackles/tackles/tackles/tackles/tackle1) (Player2) and (finishes/finishes/finishes/finishes/finish1) [typeB2] off with a rock.
+2
+Player1
+Player2
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) (Player2) with a crossbow before [typeA2] (reaches/reaches/reach/reaches/reach2) the woods.
+2
+Player1
+Player2
+
+(Player1) (cuts/cuts/cuts/cuts/cut1) down (Player2) and (Player3) with a machete.
+3
+Player1
+Player2, Player3
+
+(Player1) (hesitates/hesitates/hesitates/hesitates/hesitate1) on [typeC1] podium too long, and (Player2) (takes/takes/takes/takes/take2) advantage.
+2
+Player2
+Player1
+
+(Player1) (shoves/shoves/shoves/shoves/shove1) (Player2) off [typeC2] podium before the gong.
+2
+Player1
+Player2
+
+(Player1) (betrays/betrays/betrays/betrays/betray1) (Player2) seconds after agreeing to team up.
+2
+Player1
+Player2
+
+(Player1), (Player2), and (Player3) gang up on (Player4).
+4
+Player1, Player2, Player3
+Player4
+
+(Player1) (holds/holds/holds/holds/hold1) (Player2) down while (Player3) (stabs/stabs/stabs/stabs/stab3) [typeB2].
+3
+Player1, Player3
+Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with a shovel.
+2
+Player1
+Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with an axe.
+2
+Player1
+Player2
+
+(Player1) (cracks/cracks/cracks/cracks/crack1) (Player2) over the head with a shield.
+2
+Player1
+Player2
+
+(Player1) (runs/runs/runs/runs/run1) straight into (Player2)'s sword.
+2
+Player2
+Player1
+
+(Player1) and (Player2) strike at the same moment and kill each other.
+2
+None
+Player1, Player2
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) (Player2) with a blowgun dart as [typeA2] (runs/runs/run/runs/run2) for the trees.
+2
+Player1
+Player2
+
+
+Fatal Day Events
+(Player1) (throws/throws/throws/throws/throw1) a knife into (Player2)'s (head/head/head/head/heads2).
+2
+Player1
+Player2
+
+(Player1) accidentally (steps/steps/steps/steps/step1) on a landmine.
+1
+None
+Player1
+
+(Player1) (catches/catches/catches/catches/catch1) (Player2) off guard and (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1) and (Player2) work together to drown (Player3).
+3
+Player1, Player2
+Player3
+
+(Player1) (strangles/strangles/strangles/strangles/strangle1) (Player2) after engaging in a fist fight.
+2
+Player1
+Player2
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) an arrow into (Player2)'s (head/head/head/head/heads2).
+2
+Player1
+Player2
+
+(Player1) cannot handle the circumstances and (commits/commits/commits/commits/commit1) suicide.
+1
+None
+Player1
+
+(Player1) (bashes/bashes/bashes/bashes/bash1) (Player2)'s (head/head/head/head/heads2) against a rock several times.
+2
+Player1
+Player2
+
+(Player1) (decapitates/decapitates/decapitates/decapitates/decapitate1) (Player2) with a sword.
+2
+Player1
+Player2
+
+(Player1) (spears/spears/spears/spears/spear1) (Player2) in the abdomen.
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) (Player2) on fire with a molotov.
+2
+Player1
+Player2
+
+(Player1) (falls/falls/falls/falls/fall1) into a pit and (dies/dies/dies/dies/die1).
+1
+None
+Player1
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) while [typeC2] (back is/back is/back is/back is/backs are2) turned.
+2
+Player1
+Player2
+
+(Player1) severely (injures/injures/injures/injures/injure1) (Player2), but (puts/puts/puts/puts/put1) [typeB2] out of [typeC2] misery.
+2
+Player1
+Player2
+
+(Player1) severely (injures/injures/injures/injures/injure1) (Player2) and (leaves/leaves/leaves/leaves/leave1) [typeB2] to die.
+2
+Player1
+Player2
+
+(Player1) (bashes/bashes/bashes/bashes/bash1) (Player2)'s (head/head/head/head/heads2) in with a mace.
+2
+Player1
+Player2
+
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) off a cliff during a knife fight.
+2
+Player1
+Player2
+
+(Player1) (throws/throws/throws/throws/throw1) a knife into (Player2)'s (chest/chest/chest/chest/chests2).
+2
+Player1
+Player2
+
+(Player1) (is/is/is/is/are1) unable to convince (Player2) to not kill [typeB1].
+2
+Player2
+Player1
+
+(Player1) (convinces/convinces/convinces/convinces/convince1) (Player2) to not kill [typeB1], only to kill [typeB2] instead.
+2
+Player1
+Player2
+
+(Player1) (falls/falls/falls/falls/fall1) into a frozen lake and (drowns/drowns/drowns/drowns/drown1).
+1
+None
+Player1
+
+(Player1), (Player2), and (Player3) start fighting, but (Player2) (runs/runs/runs/runs/run2) away as (Player1) (kills/kills/kills/kills/kill1) (Player3).
+3
+Player1
+Player3
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with [typeC2] own weapon.
+2
+Player1
+Player2
+
+(Player1) (overpowers/overpowers/overpowers/overpowers/overpower1) (Player2), killing [typeB2].
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2).
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), and (Player3).
+3
+Player1
+Player2, Player3
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), (Player3), and (Player4).
+4
+Player1
+Player2, Player3, Player4
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), (Player3), (Player4) and (Player5).
+5
+Player1
+Player2, Player3, Player4, Player5
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) as [typeA2] (tries/tries/try/tries/try2) to run.
+2
+Player1
+Player2
+
+(Player1), (Player2), (Player3), and (Player4) form a suicide pact, killing themselves.
+4
+None
+Player1, Player2, Player3, Player4
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with a hatchet.
+2
+Player1
+Player2
+
+(Player1) and (Player2) fight (Player3) and (Player4). (Player1) and (Player2) survive.
+4
+Player1, Player2
+Player3, Player4
+
+(Player1) and (Player2) fight (Player3) and (Player4). (Player3) and (Player4) survive.
+4
+Player3, Player4
+Player1, Player2
+
+(Player1) (attacks/attacks/attacks/attacks/attack1) (Player2), but (Player3) (protects/protects/protects/protects/protect3) [typeB2], killing (Player1).
+3
+Player3
+Player1
+
+(Player1) severely (slices/slices/slices/slices/slice1) (Player2) with a sword.
+2
+Player1
+Player2
+
+(Player1) (strangles/strangles/strangles/strangles/strangle1) (Player2) with a rope.
+2
+Player1
+Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) for [typeC2] supplies.
+2
+Player1
+Player2
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) an arrow at (Player2), but (misses/misses/misses/misses/miss1) and (kills/kills/kills/kills/kill1) (Player3) instead.
+3
+Player1
+Player3
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) with a tree branch.
+2
+Player1
+Player2
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) in the (back/back/back/back/backs2) with a trident.
+2
+Player1
+Player2
+
+(Player1), (Player2), and (Player3) get into a fight. (Player1) triumphantly (kills/kills/kills/kills/kill1) them both.
+3
+Player1
+Player2, Player3
+
+(Player1), (Player2), and (Player3) get into a fight. (Player2) triumphantly (kills/kills/kills/kills/kill2) them both.
+3
+Player2
+Player1, Player3
+
+(Player1), (Player2), and (Player3) get into a fight. (Player3) triumphantly (kills/kills/kills/kills/kill3) them both.
+3
+Player3
+Player1, Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with a sickle.
+2
+Player1
+Player2
+
+(Player1) repeatedly (stabs/stabs/stabs/stabs/stab1) (Player2) to death with sais.
+2
+Player1
+Player2
+
+(Player1) (begs/begs/begs/begs/beg1) for (Player2) to kill [typeB1]. [TypeA2] reluctantly (obliges/obliges/oblige/obliges/oblige2), killing (Player1).
+2
+Player2
+Player1
+
+(Player1) (bleeds/bleeds/bleeds/bleeds/bleed1) out due to untreated injuries.
+1
+None
+Player1
+
+(Player1) unknowingly (eats/eats/eats/eats/eat1) toxic berries.
+1
+None
+Player1
+
+(Player1) silently (snaps/snaps/snaps/snaps/snap1) (Player2)'s (neck/neck/neck/neck/necks2).
+2
+Player1
+Player2
+
+(Player1) (taints/taints/taints/taints/taint1) (Player2)'s food, killing [typeB2].
+2
+Player1
+Player2
+
+(Player1) (dies/dies/dies/dies/die1) from an infection.
+1
+None
+Player1
+
+(Player1) (attempts/attempts/attempts/attempts/attempt1) to climb a tree, but (falls/falls/falls/falls/fall1) to [typeC1] death.
+1
+None
+Player1
+
+(Player1)'s trap kills (Player2).
+2
+Player1
+Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) while [typeA2] (is/is/are/is/are2) resting.
+2
+Player1
+Player2
+
+(Player1) (dies/dies/dies/dies/die1) from hypothermia.
+1
+None
+Player1
+
+(Player1) (dies/dies/dies/dies/die1) from hunger.
+1
+None
+Player1
+
+(Player1) (dies/dies/dies/dies/die1) from thirst.
+1
+None
+Player1
+
+(Player1) (dies/dies/dies/dies/die1) trying to escape the arena.
+1
+None
+Player1
+
+(Player1) (dies/dies/dies/dies/die1) of dysentery.
+1
+None
+Player1
+
+(Player1) accidentally (detonates/detonates/detonates/detonates/detonate1) a land mine while trying to arm it.
+1
+None
+Player1
+
+(Player1) (ambushes/ambushes/ambushes/ambushes/ambush1) (Player2) and (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1), (Player2), and (Player3) successfully ambush and kill (Player4), (Player5), and (Player6).
+6
+Player1, Player2, Player3
+Player4, Player5, Player6
+
+(Player1), (Player2), and (Player3) unsuccessfully ambush (Player4), (Player5), and (Player6), who kill them instead.
+6
+Player4, Player5, Player6
+Player1, Player2, Player3
+
+(Player1) (forces/forces/forces/forces/force1) (Player2) to kill (Player3) or (Player4). [TypeA2] (decides/decides/decide/decides/decide2) to kill (Player3).
+4
+Player2
+Player3
+
+(Player1) (forces/forces/forces/forces/force1) (Player2) to kill (Player3) or (Player4). [TypeA2] (decides/decides/decide/decides/decide2) to kill (Player4).
+4
+Player2
+Player4
+
+(Player1) (forces/forces/forces/forces/force1) (Player2) to kill (Player3) or (Player4). [TypeA2] (refuses/refuses/refuse/refuses/refuse2) to kill, so (Player1) (kills/kills/kills/kills/kill1) [typeB2] instead.
+4
+Player1
+Player2
+
+(Player1) (poisons/poisons/poisons/poisons/poison1) (Player2)'s drink, but (mistakes/mistakes/mistakes/mistakes/mistake1) it for [typeC1] own and (dies/dies/dies/dies/die1).
+2
+None
+Player1
+
+(Player1) (poisons/poisons/poisons/poisons/poison1) (Player2)'s drink. [TypeA2] (drinks/drinks/drink/drinks/drink2) it and (dies/dies/die/dies/die2).
+2
+Player1
+Player2
+
+(Player1) (attempts/attempts/attempts/attempts/attempt1) to climb a tree, but (falls/falls/falls/falls/fall1) on (Player2), killing them both.
+2
+None
+Player1, Player2
+
+(Player1), (Player2), (Player3), (Player4), and (Player5) track down and kill (Player6).
+6
+Player1, Player2, Player3, Player4, Player5
+Player6
+
+(Player1), (Player2), (Player3), and (Player4) track down and kill (Player5).
+5
+Player1, Player2, Player3, Player4
+Player5
+
+(Player1), (Player2), and (Player3) track down and kill (Player4).
+4
+Player1, Player2, Player3
+Player4
+
+(Player1) and (Player2) track down and kill (Player3).
+3
+Player1, Player2
+Player3
+
+(Player1) (tracks/tracks/tracks/tracks/track1) down and (kills/kills/kills/kills/kill1) (Player2).
+2
+Player1
+Player2
+
+(Player1) (lures/lures/lures/lures/lure1) (Player2) into quicksand.
+2
+Player1
+Player2
+
+(Player1) (sinks/sinks/sinks/sinks/sink1) into quicksand.
+1
+None
+Player1
+
+(Player1) (is/is/is/is/are1) bitten by a venomous snake.
+1
+None
+Player1
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) (Player2) with a crossbow from a tree.
+2
+Player1
+Player2
+
+(Player1) (drops/drops/drops/drops/drop1) a boulder on (Player2) from a cliff.
+2
+Player1
+Player2
+
+(Player1) (pretends/pretends/pretends/pretends/pretend1) to be injured to lure in (Player2), then (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1) (invites/invites/invites/invites/invite1) (Player2) to join [typeC1] alliance, then (stabs/stabs/stabs/stabs/stab1) [typeB2] in the back.
+2
+Player1
+Player2
+
+(Player1) (wins/wins/wins/wins/win1) a duel against (Player2).
+2
+Player1
+Player2
+
+(Player1) and (Player2) turn on their ally (Player3) and kill [typeB3].
+3
+Player1, Player2
+Player3
+
+(Player1) (tricks/tricks/tricks/tricks/trick1) (Player2) into stepping on a landmine.
+2
+Player1
+Player2
+
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) into a river full of rapids.
+2
+Player1
+Player2
+
+(Player1) (falls/falls/falls/falls/fall1) off a waterfall.
+1
+None
+Player1
+
+(Player1) (is/is/is/is/are1) mauled by a bear.
+1
+None
+Player1
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with a slingshot.
+2
+Player1
+Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with a machete.
+2
+Player1
+Player2
+
+(Player1) (eats/eats/eats/eats/eat1) a poisonous mushroom.
+1
+None
+Player1
+
+(Player1) (drinks/drinks/drinks/drinks/drink1) from a contaminated stream and (dies/dies/dies/dies/die1).
+1
+None
+Player1
+
+(Player1) (catches/catches/catches/catches/catch1) (Player2) stealing [typeC1] food and (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1) (follows/follows/follows/follows/follow1) a sponsor parachute right into (Player2)'s trap.
+2
+Player2
+Player1
+
+(Player1) (fights/fights/fights/fights/fight1) (Player2) over a sponsor gift and (wins/wins/wins/wins/win1).
+2
+Player1
+Player2
+
+(Player1) and (Player2) push (Player3) off a cliff.
+3
+Player1, Player2
+Player3
+
+(Player1), (Player2), and (Player3) corner (Player4) at the river.
+4
+Player1, Player2, Player3
+Player4
+
+(Player1) (gets/gets/gets/gets/get1) lost in a cave and never (finds/finds/finds/finds/find1) [typeC1] way out.
+1
+None
+Player1
+
+(Player1) (is/is/is/is/are1) struck by lightning.
+1
+None
+Player1
+
+(Player1) (steps/steps/steps/steps/step1) into a bear trap and (bleeds/bleeds/bleeds/bleeds/bleed1) out.
+1
+None
+Player1
+
+(Player1)'s snare catches (Player2), and (Player1) (finishes/finishes/finishes/finishes/finish1) [typeB2] off.
+2
+Player1
+Player2
+
+(Player1) (triggers/triggers/triggers/triggers/trigger1) a rockslide that buries (Player2).
+2
+Player1
+Player2
+
+(Player1) (throws/throws/throws/throws/throw1) a hatchet at (Player2) from across a clearing.
+2
+Player1
+Player2
+
+(Player1) (ambushes/ambushes/ambushes/ambushes/ambush1) (Player2) at the water's edge and (drowns/drowns/drowns/drowns/drown1) [typeB2].
+2
+Player1
+Player2
+
+(Player1) (is/is/is/is/are1) stung by a swarm of wasps.
+1
+None
+Player1
+
+(Player1) (challenges/challenges/challenges/challenges/challenge1) (Player2) to a fight and (loses/loses/loses/loses/lose1).
+2
+Player2
+Player1
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) and (Player3) with a spear in quick succession.
+3
+Player1
+Player2, Player3
+
+
+Fatal Night Events
+(Player1) (throws/throws/throws/throws/throw1) a knife into (Player2)'s (head/head/head/head/heads2).
+2
+Player1
+Player2
+
+(Player1) accidentally (steps/steps/steps/steps/step1) on a landmine.
+1
+None
+Player1
+
+(Player1) (catches/catches/catches/catches/catch1) (Player2) off guard and (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1) and (Player2) work together to drown (Player3).
+3
+Player1, Player2
+Player3
+
+(Player1) (strangles/strangles/strangles/strangles/strangle1) (Player2) after engaging in a fist fight.
+2
+Player1
+Player2
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) an arrow into (Player2)'s (head/head/head/head/heads2).
+2
+Player1
+Player2
+
+(Player1) cannot handle the circumstances and (commits/commits/commits/commits/commit1) suicide.
+1
+None
+Player1
+
+(Player1) (bashes/bashes/bashes/bashes/bash1) (Player2)'s (head/head/head/head/heads2) against a rock several times.
+2
+Player1
+Player2
+
+(Player1) (decapitates/decapitates/decapitates/decapitates/decapitate1) (Player2) with a sword.
+2
+Player1
+Player2
+
+(Player1) (spears/spears/spears/spears/spear1) (Player2) in the abdomen.
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) (Player2) on fire with a molotov.
+2
+Player1
+Player2
+
+(Player1) (falls/falls/falls/falls/fall1) into a pit and (dies/dies/dies/dies/die1).
+1
+None
+Player1
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) while [typeC2] (back is/back is/back is/back is/backs are2) turned.
+2
+Player1
+Player2
+
+(Player1) severely (injures/injures/injures/injures/injure1) (Player2), but (puts/puts/puts/puts/put1) [typeB2] out of [typeC2] misery.
+2
+Player1
+Player2
+
+(Player1) severely (injures/injures/injures/injures/injure1) (Player2) and (leaves/leaves/leaves/leaves/leave1) [typeB2] to die.
+2
+Player1
+Player2
+
+(Player1) (bashes/bashes/bashes/bashes/bash1) (Player2)'s (head/head/head/head/heads2) in with a mace.
+2
+Player1
+Player2
+
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) off a cliff during a knife fight.
+2
+Player1
+Player2
+
+(Player1) (throws/throws/throws/throws/throw1) a knife into (Player2)'s (chest/chest/chest/chest/chests2).
+2
+Player1
+Player2
+
+(Player1) (is/is/is/is/are1) unable to convince (Player2) to not kill [typeB1].
+2
+Player2
+Player1
+
+(Player1) (convinces/convinces/convinces/convinces/convince1) (Player2) to not kill [typeB1], only to kill [typeB2] instead.
+2
+Player1
+Player2
+
+(Player1) (falls/falls/falls/falls/fall1) into a frozen lake and (drowns/drowns/drowns/drowns/drown1).
+1
+None
+Player1
+
+(Player1), (Player2), and (Player3) start fighting, but (Player2) (runs/runs/runs/runs/run2) away as (Player1) (kills/kills/kills/kills/kill1) (Player3).
+3
+Player1
+Player3
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with [typeC2] own weapon.
+2
+Player1
+Player2
+
+(Player1) (overpowers/overpowers/overpowers/overpowers/overpower1) (Player2), killing [typeB2].
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2).
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), and (Player3).
+3
+Player1
+Player2, Player3
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), (Player3), and (Player4).
+4
+Player1
+Player2, Player3, Player4
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), (Player3), (Player4) and (Player5).
+5
+Player1
+Player2, Player3, Player4, Player5
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) as [typeA2] (tries/tries/try/tries/try2) to run.
+2
+Player1
+Player2
+
+(Player1), (Player2), (Player3), and (Player4) form a suicide pact, killing themselves.
+4
+None
+Player1, Player2, Player3, Player4
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with a hatchet.
+2
+Player1
+Player2
+
+(Player1) and (Player2) fight (Player3) and (Player4). (Player1) and (Player2) survive.
+4
+Player1, Player2
+Player3, Player4
+
+(Player1) and (Player2) fight (Player3) and (Player4). (Player3) and (Player4) survive.
+4
+Player3, Player4
+Player1, Player2
+
+(Player1) (attacks/attacks/attacks/attacks/attack1) (Player2), but (Player3) (protects/protects/protects/protects/protect3) [typeB2], killing (Player1).
+3
+Player3
+Player1
+
+(Player1) severely (slices/slices/slices/slices/slice1) (Player2) with a sword.
+2
+Player1
+Player2
+
+(Player1) (strangles/strangles/strangles/strangles/strangle1) (Player2) with a rope.
+2
+Player1
+Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) for [typeC2] supplies.
+2
+Player1
+Player2
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) an arrow at (Player2), but (misses/misses/misses/misses/miss1) and (kills/kills/kills/kills/kill1) (Player3) instead.
+3
+Player1
+Player3
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) with a tree branch.
+2
+Player1
+Player2
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) in the (back/back/back/back/backs2) with a trident.
+2
+Player1
+Player2
+
+(Player1), (Player2), and (Player3) get into a fight. (Player1) triumphantly (kills/kills/kills/kills/kill1) them both.
+3
+Player1
+Player2, Player3
+
+(Player1), (Player2), and (Player3) get into a fight. (Player2) triumphantly (kills/kills/kills/kills/kill2) them both.
+3
+Player2
+Player1, Player3
+
+(Player1), (Player2), and (Player3) get into a fight. (Player3) triumphantly (kills/kills/kills/kills/kill3) them both.
+3
+Player3
+Player1, Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with a sickle.
+2
+Player1
+Player2
+
+(Player1) repeatedly (stabs/stabs/stabs/stabs/stab1) (Player2) to death with sais.
+2
+Player1
+Player2
+
+(Player1) (begs/begs/begs/begs/beg1) for (Player2) to kill [typeB1]. [TypeA2] reluctantly (obliges/obliges/oblige/obliges/oblige2), killing (Player1).
+2
+Player2
+Player1
+
+(Player1) (bleeds/bleeds/bleeds/bleeds/bleed1) out due to untreated injuries.
+1
+None
+Player1
+
+(Player1) unknowingly (eats/eats/eats/eats/eat1) toxic berries.
+1
+None
+Player1
+
+(Player1) silently (snaps/snaps/snaps/snaps/snap1) (Player2)'s (neck/neck/neck/neck/necks2).
+2
+Player1
+Player2
+
+(Player1) (taints/taints/taints/taints/taint1) (Player2)'s food, killing [typeB2].
+2
+Player1
+Player2
+
+(Player1) (dies/dies/dies/dies/die1) from an infection.
+1
+None
+Player1
+
+(Player1) (attempts/attempts/attempts/attempts/attempt1) to climb a tree, but (falls/falls/falls/falls/fall1) to [typeC1] death.
+1
+None
+Player1
+
+(Player1)'s trap kills (Player2).
+2
+Player1
+Player2
+
+(Player1) (dies/dies/dies/dies/die1) from hypothermia.
+1
+None
+Player1
+
+(Player1) (dies/dies/dies/dies/die1) from hunger.
+1
+None
+Player1
+
+(Player1) (dies/dies/dies/dies/die1) from thirst.
+1
+None
+Player1
+
+(Player1) (dies/dies/dies/dies/die1) trying to escape the arena.
+1
+None
+Player1
+
+(Player1) (dies/dies/dies/dies/die1) of dysentery.
+1
+None
+Player1
+
+(Player1) accidentally (detonates/detonates/detonates/detonates/detonate1) a land mine while trying to arm it.
+1
+None
+Player1
+
+(Player1) (ambushes/ambushes/ambushes/ambushes/ambush1) (Player2) and (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1), (Player2), and (Player3) successfully ambush and kill (Player4), (Player5), and (Player6).
+6
+Player1, Player2, Player3
+Player4, Player5, Player6
+
+(Player1), (Player2), and (Player3) unsuccessfully ambush (Player4), (Player5), and (Player6), who kill them instead.
+6
+Player4, Player5, Player6
+Player1, Player2, Player3
+
+(Player1) (forces/forces/forces/forces/force1) (Player2) to kill (Player3) or (Player4). [TypeA2] (decides/decides/decide/decides/decide2) to kill (Player3).
+4
+Player2
+Player3
+
+(Player1) (forces/forces/forces/forces/force1) (Player2) to kill (Player3) or (Player4). [TypeA2] (decides/decides/decide/decides/decide2) to kill (Player4).
+4
+Player2
+Player4
+
+(Player1) (forces/forces/forces/forces/force1) (Player2) to kill (Player3) or (Player4). [TypeA2] (refuses/refuses/refuse/refuses/refuse2) to kill, so (Player1) (kills/kills/kills/kills/kill1) [typeB2] instead.
+4
+Player1
+Player2
+
+(Player1) (poisons/poisons/poisons/poisons/poison1) (Player2)'s drink, but (mistakes/mistakes/mistakes/mistakes/mistake1) it for [typeC1] own and (dies/dies/dies/dies/die1).
+2
+None
+Player1
+
+(Player1) (poisons/poisons/poisons/poisons/poison1) (Player2)'s drink. [TypeA2] (drinks/drinks/drink/drinks/drink2) it and (dies/dies/die/dies/die2).
+2
+Player1
+Player2
+
+(Player1) (attempts/attempts/attempts/attempts/attempt1) to climb a tree, but (falls/falls/falls/falls/fall1) on (Player2), killing them both.
+2
+None
+Player1, Player2
+
+(Player1), (Player2), (Player3), (Player4), and (Player5) track down and kill (Player6).
+6
+Player1, Player2, Player3, Player4, Player5
+Player6
+
+(Player1), (Player2), (Player3), and (Player4) track down and kill (Player5).
+5
+Player1, Player2, Player3, Player4
+Player5
+
+(Player1), (Player2), and (Player3) track down and kill (Player4).
+4
+Player1, Player2, Player3
+Player4
+
+(Player1) and (Player2) track down and kill (Player3).
+3
+Player1, Player2
+Player3
+
+(Player1) (tracks/tracks/tracks/tracks/track1) down and (kills/kills/kills/kills/kill1) (Player2).
+2
+Player1
+Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) while [typeA2] (is/is/are/is/are2) sleeping.
+2
+Player1
+Player2
+
+(Player1) (sneaks/sneaks/sneaks/sneaks/sneak1) into (Player2)'s shelter and (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1) (freezes/freezes/freezes/freezes/freeze1) to death in [typeC1] sleep.
+1
+None
+Player1
+
+(Player1)'s campfire attracts (Player2), who (kills/kills/kills/kills/kill2) [typeB1].
+2
+Player2
+Player1
+
+(Player1) (volunteers/volunteers/volunteers/volunteers/volunteer1) to keep watch, then (kills/kills/kills/kills/kill1) (Player2) and (Player3) while they sleep.
+3
+Player1
+Player2, Player3
+
+(Player1) (mistakes/mistakes/mistakes/mistakes/mistake1) (Player2) for an enemy in the dark and (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1) (stumbles/stumbles/stumbles/stumbles/stumble1) into a ravine in the dark.
+1
+None
+Player1
+
+(Player1) (is/is/is/is/are1) dragged off by something in the dark.
+1
+None
+Player1
+
+(Player1) and (Player2) sneak into (Player3)'s camp and kill [typeB3].
+3
+Player1, Player2
+Player3
+
+(Player1) (sets/sets/sets/sets/set1) (Player2)'s shelter on fire.
+2
+Player1
+Player2
+
+(Player1) (rolls/rolls/rolls/rolls/roll1) into [typeC1] own campfire in [typeC1] sleep.
+1
+None
+Player1
+
+(Player1) (falls/falls/falls/falls/fall1) out of the tree [typeA1] (was/was/were/was/were1) sleeping in.
+1
+None
+Player1
+
+(Player1) (ambushes/ambushes/ambushes/ambushes/ambush1) (Player2) on [typeC2] way back from fetching water.
+2
+Player1
+Player2
+
+(Player1) (follows/follows/follows/follows/follow1) the smoke from (Player2)'s fire and (kills/kills/kills/kills/kill1) [typeB2] at dawn.
+2
+Player1
+Player2
+
+(Player1) (wakes/wakes/wakes/wakes/wake1) up just in time to kill (Player2), who was sneaking up on [typeB1].
+2
+Player1
+Player2
+
+(Player1) (is/is/is/is/are1) bitten by a venomous spider while sleeping.
+1
+None
+Player1
+
+(Player1) (poisons/poisons/poisons/poisons/poison1) the stew that (Player2) and (Player3) are sharing.
+3
+Player1
+Player2, Player3
+
+(Player1) (cuts/cuts/cuts/cuts/cut1) the rope holding up (Player2)'s hammock over a cliff.
+2
+Player1
+Player2
+
+(Player1) (lures/lures/lures/lures/lure1) (Player2) away from camp with a fake cry for help.
+2
+Player1
+Player2
+
+(Player1), (Player2), and (Player3) raid (Player4)'s camp in the middle of the night.
+4
+Player1, Player2, Player3
+Player4
+
+(Player1) (sneaks/sneaks/sneaks/sneaks/sneak1) up on (Player2), but (Player2) (hears/hears/hears/hears/hear2) [typeB1] coming and (strikes/strikes/strikes/strikes/strike2) first.
+2
+Player2
+Player1
+
+
+Fatal Feast Events
+(Player1) (throws/throws/throws/throws/throw1) a knife into (Player2)'s (head/head/head/head/heads2).
+2
+Player1
+Player2
+
+(Player1) accidentally (steps/steps/steps/steps/step1) on a landmine.
+1
+None
+Player1
+
+(Player1) (catches/catches/catches/catches/catch1) (Player2) off guard and (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1) and (Player2) work together to drown (Player3).
+3
+Player1, Player2
+Player3
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) an arrow into (Player2)'s (head/head/head/head/heads2).
+2
+Player1
+Player2
+
+(Player1) cannot handle the circumstances and (commits/commits/commits/commits/commit1) suicide.
+1
+None
+Player1
+
+(Player1) (bashes/bashes/bashes/bashes/bash1) (Player2)'s (head/head/head/head/heads2) against a rock several times.
+2
+Player1
+Player2
+
+(Player1) (snaps/snaps/snaps/snaps/snap1) (Player2)'s (neck/neck/neck/neck/necks2).
+2
+Player1
+Player2
+
+(Player1) (decapitates/decapitates/decapitates/decapitates/decapitate1) (Player2) with a sword.
+2
+Player1
+Player2
+
+(Player1) (spears/spears/spears/spears/spear1) (Player2) in the abdomen.
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) (Player2) on fire with a molotov.
+2
+Player1
+Player2
+
+(Player1) (falls/falls/falls/falls/fall1) into a pit and (dies/dies/dies/dies/die1).
+1
+None
+Player1
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) while [typeC2] (back is/back is/back is/back is/backs are2) turned.
+2
+Player1
+Player2
+
+(Player1) severely (injures/injures/injures/injures/injure1) (Player2), but (puts/puts/puts/puts/put1) [typeB2] out of [typeC2] misery.
+2
+Player1
+Player2
+
+(Player1) severely (injures/injures/injures/injures/injure1) (Player2) and (leaves/leaves/leaves/leaves/leave1) [typeB2] to die.
+2
+Player1
+Player2
+
+(Player1) (bashes/bashes/bashes/bashes/bash1) (Player2)'s (head/head/head/head/heads2) in with a mace.
+2
+Player1
+Player2
+
+(Player1) (pushes/pushes/pushes/pushes/push1) (Player2) off a cliff during a knife fight.
+2
+Player1
+Player2
+
+(Player1) (throws/throws/throws/throws/throw1) a knife into (Player2)'s (chest/chest/chest/chest/chests2).
+2
+Player1
+Player2
+
+(Player1) (is/is/is/is/are1) unable to convince (Player2) to not kill [typeB1].
+2
+Player2
+Player1
+
+(Player1) (convinces/convinces/convinces/convinces/convince1) (Player2) to not kill [typeB1], only to kill [typeB2] instead.
+2
+Player1
+Player2
+
+(Player1) (falls/falls/falls/falls/fall1) into a frozen lake and (drowns/drowns/drowns/drowns/drown1).
+1
+None
+Player1
+
+(Player1), (Player2), and (Player3) start fighting, but (Player2) (runs/runs/runs/runs/run2) away as (Player1) (kills/kills/kills/kills/kill1) (Player3).
+3
+Player1
+Player3
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with [typeC2] own weapon.
+2
+Player1
+Player2
+
+(Player1) (overpowers/overpowers/overpowers/overpowers/overpower1) (Player2), killing [typeB2].
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2).
+2
+Player1
+Player2
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), and (Player3).
+3
+Player1
+Player2, Player3
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), (Player3), and (Player4).
+4
+Player1
+Player2, Player3, Player4
+
+(Player1) (sets/sets/sets/sets/set1) an explosive off, killing (Player2), (Player3), (Player4) and (Player5).
+5
+Player1
+Player2, Player3, Player4, Player5
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) as [typeA2] (tries/tries/try/tries/try2) to run.
+2
+Player1
+Player2
+
+(Player1), (Player2), (Player3), and (Player4) form a suicide pact, killing themselves.
+4
+None
+Player1, Player2, Player3, Player4
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with a hatchet.
+2
+Player1
+Player2
+
+(Player1) and (Player2) fight (Player3) and (Player4). (Player1) and (Player2) survive.
+4
+Player1, Player2
+Player3, Player4
+
+(Player1) and (Player2) fight (Player3) and (Player4). (Player3) and (Player4) survive.
+4
+Player3, Player4
+Player1, Player2
+
+(Player1) (attacks/attacks/attacks/attacks/attack1) (Player2), but (Player3) (protects/protects/protects/protects/protect3) [typeB2], killing (Player1).
+3
+Player3
+Player1
+
+(Player1) severely (slices/slices/slices/slices/slice1) (Player2) with a sword.
+2
+Player1
+Player2
+
+(Player1) (strangles/strangles/strangles/strangles/strangle1) (Player2) with a rope.
+2
+Player1
+Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) for [typeC2] supplies.
+2
+Player1
+Player2
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) an arrow at (Player2), but (misses/misses/misses/misses/miss1) and (kills/kills/kills/kills/kill1) (Player3) instead.
+3
+Player1
+Player3
+
+(Player1) (shoots/shoots/shoots/shoots/shoot1) a poisonous blow dart into (Player2)'s (neck/neck/neck/neck/necks2), slowly killing [typeB2].
+2
+Player1
+Player2
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) with a tree branch.
+2
+Player1
+Player2
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) in the (back/back/back/back/backs2) with a trident.
+2
+Player1
+Player2
+
+(Player1), (Player2), and (Player3) get into a fight. (Player1) triumphantly (kills/kills/kills/kills/kill1) them both.
+3
+Player1
+Player2, Player3
+
+(Player1), (Player2), and (Player3) get into a fight. (Player2) triumphantly (kills/kills/kills/kills/kill2) them both.
+3
+Player2
+Player1, Player3
+
+(Player1), (Player2), and (Player3) get into a fight. (Player3) triumphantly (kills/kills/kills/kills/kill3) them both.
+3
+Player3
+Player1, Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) with a sickle.
+2
+Player1
+Player2
+
+(Player1) repeatedly (stabs/stabs/stabs/stabs/stab1) (Player2) to death with sais.
+2
+Player1
+Player2
+
+(Player1) (bleeds/bleeds/bleeds/bleeds/bleed1) out due to untreated injuries.
+1
+None
+Player1
+
+(Player1) (dies/dies/dies/dies/die1) from an infection.
+1
+None
+Player1
+
+(Player1)'s trap kills (Player2).
+2
+Player1
+Player2
+
+(Player1) (ambushes/ambushes/ambushes/ambushes/ambush1) (Player2) and (kills/kills/kills/kills/kill1) [typeB2].
+2
+Player1
+Player2
+
+(Player1), (Player2), and (Player3) successfully ambush and kill (Player4), (Player5), and (Player6).
+6
+Player1, Player2, Player3
+Player4, Player5, Player6
+
+(Player1), (Player2), and (Player3) unsuccessfully ambush (Player4), (Player5), and (Player6), who kill them instead.
+6
+Player4, Player5, Player6
+Player1, Player2, Player3
+
+(Player1), (Player2), (Player3), (Player4), and (Player5) track down and kill (Player6).
+6
+Player1, Player2, Player3, Player4, Player5
+Player6
+
+(Player1), (Player2), (Player3), and (Player4) track down and kill (Player5).
+5
+Player1, Player2, Player3, Player4
+Player5
+
+(Player1), (Player2), and (Player3) track down and kill (Player4).
+4
+Player1, Player2, Player3
+Player4
+
+(Player1) and (Player2) track down and kill (Player3).
+3
+Player1, Player2
+Player3
+
+(Player1) (tracks/tracks/tracks/tracks/track1) down and (kills/kills/kills/kills/kill1) (Player2).
+2
+Player1
+Player2
+
+(Player1) (waits/waits/waits/waits/wait1) by the feast table and (kills/kills/kills/kills/kill1) (Player2) as [typeA2] (reaches/reaches/reach/reaches/reach2) for [typeC2] bag.
+2
+Player1
+Player2
+
+(Player1) (grabs/grabs/grabs/grabs/grab1) a bag that explodes in [typeC1] hands.
+1
+None
+Player1
+
+(Player1) (rigs/rigs/rigs/rigs/rig1) (Player2)'s bag with an explosive.
+2
+Player1
+Player2
+
+(Player1) and (Player2) sprint to the table at the same time. Only (Player1) (leaves/leaves/leaves/leaves/leave1).
+2
+Player1
+Player2
+
+(Player1), (Player2), and (Player3) camp out at the feast and kill (Player4) when [typeA4] (shows/shows/show/shows/show4) up.
+4
+Player1, Player2, Player3
+Player4
+
+(Player1) (snipes/snipes/snipes/snipes/snipe1) (Player2) from the treeline with an arrow.
+2
+Player1
+Player2
+
+(Player1) (kills/kills/kills/kills/kill1) (Player2) and (takes/takes/takes/takes/take1) both bags.
+2
+Player1
+Player2
+
+(Player1) (sacrifices/sacrifices/sacrifices/sacrifices/sacrifice1) [typeD1] to get (Player2) the medicine [typeA2] (needs/needs/need/needs/need2).
+2
+None
+Player1
+
+(Player1) and (Player2) fight over the last bag and both die from their wounds.
+2
+None
+Player1, Player2
+
+(Player1) (stabs/stabs/stabs/stabs/stab1) (Player2) with a fork from the feast table.
+2
+Player1
+Player2
+
+(Player1) (eats/eats/eats/eats/eat1) the feast food, which turns out to be poisoned.
+1
+None
+Player1
+
+(Player1) (guards/guards/guards/guards/guard1) the table and (kills/kills/kills/kills/kill1) (Player2) and (Player3) as they approach.
+3
+Player1
+Player2, Player3
+
+(Player1) (pretends/pretends/pretends/pretends/pretend1) to surrender at the feast, then (kills/kills/kills/kills/kill1) (Player2).
+2
+Player1
+Player2

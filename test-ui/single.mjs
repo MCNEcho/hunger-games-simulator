@@ -1,0 +1,16 @@
+import { createRequire } from 'node:module';
+const require = createRequire('/opt/npm-tools/node_modules/');
+const { chromium } = require('playwright');
+const browser = await chromium.launch({ executablePath: '/usr/bin/google-chrome', args: ['--no-sandbox'] });
+const page = await browser.newPage({ viewport: { width: 1000, height: 800 } });
+const errs = [];
+page.on('pageerror', (e) => errs.push(e.message));
+await page.goto('file://' + new URL('../dist/single.html', import.meta.url).pathname);
+await page.click('[data-action="start-reaping"]');
+await page.click('.hero [data-action="begin-games"]');
+for (let i = 0; i < 6; i++) await page.click('#controls [data-action="proceed"]');
+await page.click('[data-action="skip-to-end"]');
+await page.click('[data-action="confirm-skip"]');
+await page.waitForSelector('.victors');
+console.log(errs.length ? 'ERRORS ' + errs.join('; ') : 'single-file version OK: played to the end with no errors');
+await browser.close();

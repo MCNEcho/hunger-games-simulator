@@ -1,0 +1,194 @@
+The Hunger Games
+https://cdn.brantsteele.com/extras/hungergames/01/logo.png
+
+
+District 1
+#FFFFFF 0 0
+
+Marvel
+Marvel
+1
+https://cdn.brantsteele.com/images/hungergames/01/district1male.png
+BW
+
+Glimmer
+Glimmer
+0
+https://cdn.brantsteele.com/images/hungergames/01/glimmer.png
+BW
+
+
+District 2
+#FFFFFF 0 0
+
+Cato
+Cato
+1
+https://cdn.brantsteele.com/images/hungergames/01/cato.png
+BW
+
+Clove
+Clove
+0
+https://cdn.brantsteele.com/images/hungergames/01/clove.png
+BW
+
+
+District 3
+#FFFFFF 0 0
+
+District 3 Male
+District 3 Male
+1
+https://cdn.brantsteele.com/images/hungergames/01/district3male.png
+BW
+
+District 3 Female
+District 3 Female
+0
+https://cdn.brantsteele.com/images/hungergames/01/district3female.png
+BW
+
+
+District 4
+#FFFFFF 0 0
+
+District 4 Male
+District 4 Male
+1
+https://cdn.brantsteele.com/images/hungergames/01/district4male.png
+BW
+
+District 4 Female
+District 4 Female
+0
+https://cdn.brantsteele.com/images/hungergames/01/district4female.png
+BW
+
+
+District 5
+#FFFFFF 0 0
+
+District 5 Male
+District 5 Male
+1
+https://cdn.brantsteele.com/images/hungergames/01/district5male.png
+BW
+
+Foxface
+Foxface
+0
+https://cdn.brantsteele.com/images/hungergames/01/foxface.png
+BW
+
+
+District 6
+#FFFFFF 0 0
+
+Jason
+Jason
+1
+https://cdn.brantsteele.com/images/hungergames/01/jason.png
+BW
+
+District 6 Female
+District 6 Female
+0
+https://cdn.brantsteele.com/images/hungergames/01/district6female.png
+BW
+
+
+District 7
+#FFFFFF 0 0
+
+District 7 Male
+District 7 Male
+1
+https://cdn.brantsteele.com/images/hungergames/01/district7male.png
+BW
+
+District 7 Female
+District 7 Female
+0
+https://cdn.brantsteele.com/images/hungergames/01/district7female.png
+BW
+
+
+District 8
+#FFFFFF 0 0
+
+District 8 Male
+District 8 Male
+1
+https://cdn.brantsteele.com/images/hungergames/01/district8male.png
+BW
+
+District 8 Female
+District 8 Female
+0
+https://cdn.brantsteele.com/images/hungergames/01/district8female.png
+BW
+
+
+District 9
+#FFFFFF 0 0
+
+District 9 Male
+District 9 Male
+1
+https://cdn.brantsteele.com/images/hungergames/01/district9male.png
+BW
+
+District 9 Female
+District 9 Female
+0
+https://cdn.brantsteele.com/images/hungergames/01/district9female.png
+BW
+
+
+District 10
+#FFFFFF 0 0
+
+District 10 Male
+District 10 Male
+1
+https://cdn.brantsteele.com/images/hungergames/01/district10male.png
+BW
+
+District 10 Female
+District 10 Female
+0
+https://cdn.brantsteele.com/images/hungergames/01/district10female.png
+BW
+
+
+District 11
+#FFFFFF 0 0
+
+Thresh
+Thresh
+1
+https://cdn.brantsteele.com/images/hungergames/01/thresh.png
+BW
+
+Rue
+Rue
+0
+https://cdn.brantsteele.com/images/hungergames/01/rue.png
+BW
+
+
+District 12
+#FFFFFF 0 0
+
+Peeta Mellark
+Peeta
+1
+https://cdn.brantsteele.com/images/hungergames/01/peeta.png
+BW
+
+Katniss Everdeen
+Katniss
+0
+https://cdn.brantsteele.com/images/hungergames/01/katniss.png
+BW

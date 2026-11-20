@@ -143,7 +143,8 @@ export function eventWeight(G, ev, spec, focus, opts) {
     for (let r = 0; r < ev.count; r++) best = Math.max(best, roleFit(G, spec, r, focus));
     w *= ev.fatal ? Math.min(best, 3) : Math.min(best, 6);
     // Due events (a starving tribute's "dies from hunger") should actually happen.
-    if (spec.requires.length && best > 0) w *= ev.fatal ? 3 : 2.5;
+    // (Despair events are allowed at low health, never pushed.)
+    if (spec.requires.length && best > 0 && !spec.tags.has('despair')) w *= ev.fatal ? 3 : 2.5;
   }
   return w;
 }

@@ -269,7 +269,7 @@ test('tagger: key readings', () => {
   const s6 = tagEvent(ev('(Player1), (Player2), and (Player3) form an alliance in the middle of the chaos.', 3));
   assert.deepEqual(s6.effects, [{ t: 'ally', who: [1, 2, 3] }]);
   const s7 = tagEvent(ev('(Player1) (decapitates/decapitates/decapitates/decapitates/decapitate1) (Player2) with a sword.', 2, { fatal: true, killers: [1], killed: [2] }));
-  assert.equal(s7.prefs[0].item, 'sword');
+  assert.deepEqual(s7.requires, [{ type: 'hasOneOf', who: 1, items: ['sword'] }]);
   assert.deepEqual(s7.roles, ['killer', 'victim']);
   const s8 = tagEvent(ev('(Player1) (grabs/grabs/grabs/grabs/grab1) a jar of fishing bait while (Player2) (gets/gets/gets/gets/get2) fishing gear.', 2));
   assert.deepEqual(s8.effects.filter((e) => e.t === 'gain').map((e) => e.who), [1, 2]);
@@ -368,7 +368,8 @@ test('mental strain: sanity, nightmares and grief cost health and suit strugglin
   const { applyOutcome } = await import('../src/engine/effects.js');
   const qe = { id: 'x', text: cases[0][0], count: 1, fatal: false, killers: [], killed: [], phase: 'night' };
   const ch = applyOutcome(g, qe, tagEvent(qe), [t], 'Night 1');
-  assert.equal(t.health, Math.max(1, before - 6));
+  const { DAMAGE_SCALE } = await import('../src/engine/balance.js');
+  assert.equal(t.health, Math.max(1, before + Math.round(-6 * DAMAGE_SCALE)));
   assert.match(ch[t.id][0].text, /health \(shaken\)/);
   // Struggling tributes are more likely to be cast in these events.
   const { prefFactor } = await import('../src/engine/effects.js');
@@ -376,4 +377,92 @@ test('mental strain: sanity, nightmares and grief cost health and suit strugglin
   const calm = prefFactor(g, p, { ...t, health: 100, hunger: 0, thirst: 0, conds: {}, allianceId: 'a1', district: t.district }, null);
   const rough = prefFactor(g, p, { ...t, health: 40, hunger: 3, thirst: 2, conds: { injured: true }, allianceId: null, district: t.district }, null);
   assert.ok(rough > calm * 2, `${rough} vs ${calm}`);
+});
+
+test('self-inflicted deaths need low health and are never pushed', async () => {
+  const { DESPAIR_HEALTH } = await import('../src/engine/balance.js');
+  const fatal = (text, count, killed, killers = []) => tagEvent({ text, count, fatal: true, killers, killed, phase: 'day' });
+  const s1 = fatal('(Player1) cannot handle the circumstances and (commits/commits/commits/commits/commit1) suicide.', 1, [1]);
+  assert.deepEqual(s1.requires, [{ type: 'healthBelow', who: 1, max: DESPAIR_HEALTH }]);
+  assert.ok(s1.tags.has('despair'));
+  const pact = fatal('(Player1), (Player2), (Player3), and (Player4) form a suicide pact, killing themselves.', 4, [1, 2, 3, 4]);
+  assert.equal(pact.requires.length, 4);
+  const begs = fatal('(Player1) (begs/begs/begs/begs/beg1) for (Player2) to kill [typeB1]. [TypeA2] reluctantly (obliges/obliges/oblige/obliges/oblige2), killing (Player1).', 2, [1], [2]);
+  assert.deepEqual(begs.requires, [{ type: 'healthBelow', who: 1, max: DESPAIR_HEALTH }]);
+  const murder = fatal('(Player1) (is/is/is/is/are1) unable to convince (Player2) to not kill [typeB1].', 2, [1], [2]);
+  assert.equal(murder.requires.length, 0, 'being killed by someone else is not gated');
+  // A healthy tribute can never be cast; a badly hurt one can.
+  const g = newGame('DESPAIR');
+  g.advance();
+  const t = g.alive()[0];
+  const { roleFit } = await import('../src/engine/casting.js');
+  t.health = 80;
+  assert.equal(roleFit(g, s1, 0, t), 0);
+  t.health = 20;
+  assert.ok(roleFit(g, s1, 0, t) > 0);
+  // Across many games every such death happened below the threshold (checked in checkInvariants).
+  let n = 0;
+  for (let i = 0; i < 200; i++) {
+    const h = newGame(`DS${i}`);
+    h.runToEnd();
+    assert.deepEqual(checkInvariants(h), []);
+    for (const tt of h.state.tributes) if (!tt.alive && tt.healthAtDeath < DESPAIR_HEALTH) n++;
+  }
+  assert.ok(n > 0);
+});
+
+test('health: nightly wear, faster hunger and thirst, scaled event damage', async () => {
+  const B = await import('../src/engine/balance.js');
+  const g = newGame('WEAR');
+  g.advance(); // bloodbath
+  const t = g.alive()[0];
+  t.inventory = {};
+  t.conds = { injured: false, infected: false };
+  t.health = 100;
+  // Simulate nights with no food or water and check when starvation and thirst bite.
+  const { applyOutcome } = await import('../src/engine/effects.js');
+  const hurt = { id: 'h', text: '(Player1) (gets/gets/gets/gets/get1) a nasty sunburn.', count: 1, fatal: false, killers: [], killed: [], phase: 'day' };
+  const before = t.health;
+  applyOutcome(g, hurt, tagEvent(hurt), [t], 'Day 1');
+  assert.equal(before - t.health, Math.round(3 * B.DAMAGE_SCALE));
+  assert.equal(B.DAILY_WEAR, 3);
+});
+
+test('weapons: away from the Cornucopia a weapon kill needs the weapon; at it, the killer picks it up', async () => {
+  const { roleFit } = await import('../src/engine/casting.js');
+  const arrow = { id: 'a', text: '(Player1) (shoots/shoots/shoots/shoots/shoot1) an arrow at (Player2), but (misses/misses/misses/misses/miss1) and (kills/kills/kills/kills/kill1) (Player3) instead.', count: 3, fatal: true, killers: [1], killed: [3] };
+  const night = tagEvent({ ...arrow, phase: 'night' });
+  assert.deepEqual(night.requires, [{ type: 'hasOneOf', who: 1, items: ['bow'] }]);
+  const g = newGame('ARROW');
+  g.advance();
+  const t = g.alive()[0];
+  t.inventory = { knife: 1, food: 1 }; // like Gavin: knives, no bow
+  assert.equal(roleFit(g, night, 0, t), 0, 'no bow, no arrow');
+  t.inventory.bow = 1;
+  assert.ok(roleFit(g, night, 0, t) > 0);
+  const bb = tagEvent({ ...arrow, phase: 'bloodbath' });
+  assert.deepEqual(bb.requires, []);
+  assert.deepEqual(bb.effects.find((e) => e.t === 'ensureItem'), { t: 'ensureItem', who: 1, item: 'bow' });
+  const own = tagEvent({ id: 'o', text: '(Player1) (kills/kills/kills/kills/kill1) (Player2) with [typeC2] own weapon.', count: 2, fatal: true, killers: [1], killed: [2], phase: 'day' });
+  assert.deepEqual(own.requires, [{ type: 'hasWeapon', who: 2 }]);
+  const sharpen = tagEvent({ id: 's', text: '(Player1) (sharpens/sharpens/sharpens/sharpens/sharpen1) [typeC1] weapon on a rock.', count: 1, fatal: false, killers: [], killed: [], phase: 'day' });
+  assert.deepEqual(sharpen.requires, [{ type: 'hasWeapon', who: 1 }]);
+});
+
+test('every hard requirement is true at the moment each event happens (300 games, all casts)', () => {
+  const problems = [];
+  for (let i = 0; i < 200; i++) {
+    const g = newGame(`RQ${i}`);
+    g.runToEnd();
+    problems.push(...g.requirementViolations);
+  }
+  for (let i = 0; i < 100; i++) {
+    const g = newGame(`RQO${i}`, { cast: CAST24, events: ORIGINAL_EVENTS });
+    // Gamemaker gifts mid-game, like the game in the screenshot
+    g.advance();
+    g.sendGift(g.alive()[0].id, 'knife');
+    g.runToEnd();
+    problems.push(...g.requirementViolations);
+  }
+  assert.deepEqual(problems.slice(0, 10), []);
 });

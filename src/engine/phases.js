@@ -9,6 +9,7 @@ import { applyOutcome, killTribute } from './effects.js';
 import { phaseTarget } from './pacing.js';
 import { endgameStrain } from './alliances.js';
 import { count, isArmed, mostNeeded, clamp } from './tributes.js';
+import { DAILY_WEAR, NIGHTLY_REGEN, HUNGER_START, HUNGER_DAMAGE, THIRST_DAMAGE, INFECTION_DAMAGE, INJURY_DAMAGE } from './balance.js';
 
 export function speaker(t) {
   return { id: t.id, name: t.nickname || t.name, gender: t.gender };
@@ -62,6 +63,8 @@ function runCasting(G, phase, pool, participants, target, opts = {}) {
     }
     if (!choice) choice = { ev: opts.filler, cast: [focus] };
     const { ev, cast } = choice;
+    // Test hook: lets the test suite check every requirement at the moment an event happens.
+    if (G.onBeforeOutcome) G.onBeforeOutcome(ev, G.spec(ev), cast, phase);
     const changes = applyOutcome(G, ev, G.spec(ev), cast, phase.title);
     record(G, phase, ev, cast, changes);
     G.state.eventUse[ev.id] = (G.state.eventUse[ev.id] || 0) + 1;
@@ -197,12 +200,13 @@ function upkeep(G, phase) {
       } else if (!rng.chance(0.15 + t.traits.survival * 0.04)) t.thirst += 1;
       else t.thirst = 0;
     }
-    let dmg = 0;
-    if (t.hunger >= 3) dmg += (t.hunger - 2) * 7;
-    if (t.thirst >= 2) dmg += (t.thirst - 1) * 10;
-    if (t.conds.infected) dmg += 9;
+    const gear = count(t, 'campGear') > 0;
+    let dmg = gear ? 1 : DAILY_WEAR; // exposure and exhaustion
+    if (t.hunger >= HUNGER_START) dmg += (t.hunger - HUNGER_START + 1) * HUNGER_DAMAGE;
+    if (t.thirst >= 2) dmg += (t.thirst - 1) * THIRST_DAMAGE;
+    if (t.conds.infected) dmg += INFECTION_DAMAGE;
     if (t.conds.injured) {
-      dmg += 3;
+      dmg += INJURY_DAMAGE;
       if (!count(t, 'medkit') && rng.chance(0.15)) {
         t.conds.infected = true;
         chips.push({ kind: 'bad', text: 'Wound infected' });
@@ -216,11 +220,14 @@ function upkeep(G, phase) {
       t.health = clamp(t.health + 30, 1, 100);
       chips.push({ kind: 'good', text: 'Used medical kit' });
     }
-    if (dmg) chips.push({ kind: 'bad', text: `−${dmg} health` });
+    // Fed, watered and unhurt tributes recover a little overnight.
+    const regen = !t.hunger && !t.thirst && !t.conds.injured && !t.conds.infected ? NIGHTLY_REGEN + (gear ? 3 : 0) : 0;
+    const net = regen - dmg;
+    // Only worth showing when it is more than the usual nightly wear.
+    if (net <= -5) chips.push({ kind: 'bad', text: `−${-net} health` });
     if (t.hunger >= 3) chips.push({ kind: 'bad', text: `Starving (${t.hunger} days)` });
     if (t.thirst >= 2) chips.push({ kind: 'bad', text: `Dehydrated (${t.thirst} days)` });
-    t.health -= dmg;
-    if (!dmg && !t.hunger && !t.thirst && !t.conds.injured && !t.conds.infected) t.health = Math.min(100, t.health + 8 + (count(t, 'campGear') ? 3 : 0));
+    t.health = Math.min(100, t.health + net);
     t.ateToday = false;
     t.drankToday = false;
     report.push({ t, chips });

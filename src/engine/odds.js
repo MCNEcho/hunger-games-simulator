@@ -4,22 +4,22 @@
 
 import { combatScore, count, allianceSize } from './tributes.js';
 
-// Weights fitted on ~8,000 snapshots from 800 simulated games (tools/fit-odds.mjs), so a
-// tribute shown at 10% really does win about one game in ten. Medical kits and kill counts
-// fitted to roughly zero on their own: their value shows up through health and weapons.
+// Weights fitted on ~8,500 snapshots from 800 simulated games (tools/fit-odds.mjs), so a
+// tribute shown at 10% really does win about one game in ten. Refit after balance changes.
 const W = {
-  combat: 0.059,
-  survival: 0.108,
-  stealth: 0.086,
-  food: 0.119,
-  water: 0.107,
-  health: 0.8,
-  injured: -0.183,
-  infected: -1.0,
-  hunger: -0.202,
-  thirst: -0.184,
-  allies: 0.083,
-  popularity: 0.167,
+  combat: 0.084,
+  survival: 0.095,
+  stealth: 0.131,
+  food: 0.215,
+  water: 0.226,
+  medkit: 0.193,
+  health: 0.918,
+  injured: -0.87,
+  infected: -2.19,
+  hunger: -0.354,
+  thirst: -0.246,
+  allies: 0.058,
+  popularity: 0.156,
 };
 
 export function powerScore(G, t) {
@@ -29,6 +29,7 @@ export function powerScore(G, t) {
     W.stealth * t.traits.stealth +
     W.food * Math.min(count(t, 'food'), 3) +
     W.water * Math.min(count(t, 'water'), 3) +
+    W.medkit * Math.min(count(t, 'medkit'), 2) +
     W.health * (t.health / 100) +
     (t.conds.injured ? W.injured : 0) +
     (t.conds.infected ? W.infected : 0) +

@@ -10,6 +10,7 @@
 //   tags       Set of strings: coop, hostile, sponsor, forage, ambush, strength, ...
 
 import { parseRequires, parseEffects } from './dsl.js';
+import { DESPAIR_HEALTH } from './balance.js';
 
 export const STARVE_DAYS = 4; // "dies from hunger" needs this many days without food
 export const DEHYDRATE_DAYS = 3; // "dies from thirst" needs this many days without water
@@ -65,23 +66,24 @@ const CRAFT_RE = /\b(makes?|builds?|whittles?|constructs?)\s+(?:a|an)\s+(wooden 
 const CLAUSE_END_RE = /[.;!?]| but | while | before | then | that turns| not realizing/;
 const NEGATION_RE = /\b(empty|full of rocks|too heavy|catches nothing|rip it in half|exactly what they needed)\b/;
 
+// A weapon named in an event, and the items that count as having it.
 const FATAL_WEAPONS = [
-  [/crossbow/, 'crossbow'],
-  [/\barrows?\b|archery/, 'bow'],
-  [/throws a knife|knife|knives/, 'knife'],
-  [/\bswords?\b|decapitates/, 'sword'],
-  [/\bspears @|\bspear\b/, 'spear'],
-  [/trident/, 'trident'],
-  [/\bmace\b/, 'mace'],
-  [/hatchet/, 'hatchet'],
-  [/\baxe\b/, 'axe'],
-  [/machete/, 'machete'],
-  [/sickle/, 'sickle'],
-  [/\bsais\b/, 'sais'],
-  [/slingshot/, 'slingshot'],
-  [/blow ?dart|blowgun/, 'blowgun'],
-  [/shovel/, 'shovel'],
-  [/with a rope/, 'rope'],
+  [/crossbow/, ['crossbow']],
+  [/\barrows?\b|archery/, ['bow']],
+  [/throws a knife|knife|knives/, ['knife']],
+  [/\bswords?\b|decapitates/, ['sword']],
+  [/\bspears @|\bspear\b/, ['spear', 'crudeSpear']],
+  [/trident/, ['trident']],
+  [/\bmace\b/, ['mace']],
+  [/hatchet/, ['hatchet', 'axe']],
+  [/\baxe\b/, ['axe']],
+  [/machete/, ['machete']],
+  [/sickle/, ['sickle']],
+  [/\bsais\b/, ['sais']],
+  [/slingshot/, ['slingshot']],
+  [/blow ?dart|blowgun/, ['blowgun']],
+  [/shovel/, ['shovel']],
+  [/with a rope/, ['rope']],
 ];
 
 const STEALTH_RE = /sneak|silently|ambush|while #a\d is (?:resting|sleeping|asleep)|sleeping|back is turned|off guard|trap|poisons|taints|rigs|snipe|stalk|from a tree|from the treeline|smothers|in the dark|pretends|lures|tricks/;
@@ -166,6 +168,15 @@ export function tagEvent(ev) {
   const tag = (t) => spec.tags.add(t);
   const killers = all.filter((p) => roles[p - 1] === 'killer');
   const firstKiller = killers[0];
+  // At the Bloodbath and the Feast the weapons are lying at the Cornucopia: whoever uses one picks it up.
+  // Anywhere else, an event that names a weapon only happens to someone who actually has it.
+  const atCornucopia = ev.phase === 'bloodbath' || ev.phase === 'feast';
+  const needItem = (who, items) => {
+    if (atCornucopia) {
+      pref({ type: 'hasOneOf', who, items, yes: 3, no: 1 });
+      eff({ t: 'ensureItem', who, item: items[0] });
+    } else req({ type: 'hasOneOf', who, items });
+  };
   const negated = NEGATION_RE.test(norm);
 
   // ---------- Items gained ----------
@@ -221,13 +232,17 @@ export function tagEvent(ev) {
     }
     if (item) eff({ t: 'transfer', from, to, item });
     eff({ t: 'bond', a: to, b: from, d: -20 });
-    pref({ type: 'hasAny', who: from, yes: 1.6, no: 0.5 });
+    if (item === 'weapon') req({ type: 'hasWeapon', who: from });
+    else if (item && item !== 'random' && !atCornucopia) req({ type: 'has', who: from, item });
+    else pref({ type: 'hasAny', who: from, yes: 1.6, no: 0.5 });
   }
   if ((m = /@(\d) (?:sneaks into @\d's camp and )?steals #c(\d) (food|water|supplies|weapon)/.exec(norm))) {
     const item = m[3] === 'supplies' ? 'random' : m[3];
     eff({ t: 'transfer', from: +m[2], to: +m[1], item });
     eff({ t: 'bond', a: +m[1], b: +m[2], d: -20 });
-    pref({ type: m[3] === 'food' ? 'has' : 'hasAny', who: +m[2], item: m[3] === 'food' ? 'food' : undefined, yes: 3, no: 0.3 });
+    if (m[3] === 'weapon') req({ type: 'hasWeapon', who: +m[2] });
+    else if (m[3] !== 'supplies') req({ type: 'has', who: +m[2], item: m[3] });
+    else pref({ type: 'hasAny', who: +m[2], yes: 3, no: 0.3 });
   }
   if (/realizes #c\d supplies have been stolen/.test(norm)) {
     eff({ t: 'loseSupplies', who: 1 });
@@ -262,7 +277,7 @@ export function tagEvent(ev) {
     const g = /gives @(\d)/.exec(norm);
     eff({ t: 'eat', who: +g[1] });
     eff({ t: 'consume', who: 1, item: 'food' });
-    pref({ type: 'has', who: 1, item: 'food', yes: 3, no: 0.4 });
+    req({ type: 'has', who: 1, item: 'food' });
     pref({ type: 'hungry', who: +g[1] });
   }
   const waterRe = /water source|discovers a river|fresh water spring|bathes in the river|\bdrinks\b(?! from a contaminated)|rainwater/;
@@ -388,7 +403,7 @@ export function tagEvent(ev) {
     if (/toxic berries|poisonous mushroom/.test(norm)) pref({ type: 'hungry', who: 1 });
     if (/contaminated stream|dysentery/.test(norm)) pref({ type: 'thirsty', who: 1 });
     if (/trying to arm it/.test(norm)) {
-      pref({ type: 'has', who: 1, item: 'explosives', yes: 10, no: 0.05 });
+      needItem(1, ['explosives']);
       eff({ t: 'consume', who: 1, item: 'explosives' });
     }
   }
@@ -399,19 +414,33 @@ export function tagEvent(ev) {
     tag('betrayal');
   }
 
+  // ---------- Despair: taking one's own life (or asking to be killed) needs low health ----------
+  const despairRe = /suicide|takes? #c\d own life|ends? #c\d (?:own )?life|kills? #d\d\b|begs for @\d to kill #b\d|agree to die|decide to run into the cloud together/;
+  if (despairRe.test(norm)) {
+    tag('despair');
+    let who;
+    if ((m = /@(\d) begs for @\d to kill/.exec(norm))) who = [+m[1]];
+    else if (/agree to die|decide to run into/.test(norm)) who = all;
+    else {
+      who = all.filter((p) => roles[p - 1] === 'self' || roles[p - 1] === 'victim');
+      if (!who.length) who = [1];
+    }
+    for (const p of who) req({ type: 'healthBelow', who: p, max: DESPAIR_HEALTH });
+  }
+
   // ---------- Weapons used in fights ----------
   if (ev.fatal && firstKiller) {
     if (/explosive|\bbomb\b/.test(norm) && !/trying to arm/.test(norm)) {
-      pref({ type: 'has', who: firstKiller, item: 'explosives', yes: 12, no: 0.06 });
+      needItem(firstKiller, ['explosives']);
       eff({ t: 'consume', who: firstKiller, item: 'explosives' });
       tag('explosive');
     } else if (/molotov/.test(norm)) {
-      pref({ type: 'has', who: firstKiller, item: 'molotov', yes: 10, no: 0.1 });
+      needItem(firstKiller, ['molotov']);
       eff({ t: 'consume', who: firstKiller, item: 'molotov' });
     } else if (!/own weapon|own spear/.test(norm)) {
-      for (const [re, id] of FATAL_WEAPONS) {
+      for (const [re, items] of FATAL_WEAPONS) {
         if (re.test(norm)) {
-          pref({ type: 'has', who: firstKiller, item: id, yes: 6, no: 0.1 });
+          needItem(firstKiller, items);
           break;
         }
       }
@@ -421,11 +450,13 @@ export function tagEvent(ev) {
     if (RANGED_RE.test(norm)) tag('ranged');
   } else if (!ev.fatal && !acquired) {
     // Using a weapon in a regular event ("practices archery", "spear fish with a trident").
-    if (/practices #c\d archery/.test(norm)) pref({ type: 'has', who: 1, item: 'bow', yes: 4, no: 0.4 });
-    else if (/spear fish with a trident/.test(norm)) pref({ type: 'has', who: 1, item: 'trident', yes: 5, no: 0.2 });
-    else if (/sharpens #c\d weapon|loses #c\d weapon/.test(norm)) pref({ type: 'hasWeapon', who: 1, yes: 3, no: 0.1 });
-    else if (/practices throwing knives/.test(norm)) pref({ type: 'has', who: 1, item: 'knife', yes: 4, no: 0.4 });
+    if (/practices #c\d archery/.test(norm)) needItem(1, ['bow']);
+    else if (/spear fish with a trident/.test(norm)) needItem(1, ['trident']);
+    else if (/practices throwing knives/.test(norm)) needItem(1, ['knife']);
   }
+  // Events about "their weapon" need one.
+  if (/sharpen(?:s|ing) #c\d weapon|loses #c\d weapon|(?:dips|flails) #c\d weapon/.test(norm)) req({ type: 'hasWeapon', who: 1 });
+  if ((m = /with #c(\d) own (?:weapon|spear)/.exec(norm))) req({ type: 'hasWeapon', who: +m[1] });
   if (/loses #c\d weapon/.test(norm)) eff({ t: 'loseWeapon', who: 1 });
   if (/(?:uses|guards|hacks)/.test(norm) && ev.fatal) tag('strength');
 
